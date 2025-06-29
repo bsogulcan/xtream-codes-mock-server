@@ -1,0 +1,16 @@
+meta {
+  name: Authorization
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://localhost:8080/player_api.php?username=test_user&password=test_pass
+  body: none
+  auth: inherit
+}
+
+params:query {
+  username: test_user
+  password: test_pass
+}

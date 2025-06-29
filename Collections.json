@@ -1,0 +1,446 @@
+{
+  "name": "Collections",
+  "version": "1",
+  "items": [
+    {
+      "type": "http",
+      "name": "Authorization",
+      "filename": "Authorization.bru",
+      "seq": 2,
+      "request": {
+        "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass",
+        "method": "GET",
+        "headers": [],
+        "params": [
+          {
+            "name": "username",
+            "value": "test_user",
+            "type": "query",
+            "enabled": true
+          },
+          {
+            "name": "password",
+            "value": "test_pass",
+            "type": "query",
+            "enabled": true
+          }
+        ],
+        "body": {
+          "mode": "none",
+          "formUrlEncoded": [],
+          "multipartForm": [],
+          "file": []
+        },
+        "script": {},
+        "vars": {},
+        "assertions": [],
+        "tests": "",
+        "docs": "",
+        "auth": {
+          "mode": "inherit"
+        }
+      }
+    },
+    {
+      "type": "folder",
+      "name": "Live Streams",
+      "filename": "Live Streams",
+      "seq": 3,
+      "root": {
+        "meta": {
+          "name": "Live Streams",
+          "seq": 3
+        }
+      },
+      "items": [
+        {
+          "type": "http",
+          "name": "Categories",
+          "filename": "Categories.bru",
+          "seq": 1,
+          "request": {
+            "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_live_categories",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "username",
+                "value": "test_user",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "password",
+                "value": "test_pass",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "action",
+                "value": "get_live_categories",
+                "type": "query",
+                "enabled": true
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "Live Streams",
+          "filename": "Live Streams.bru",
+          "seq": 2,
+          "request": {
+            "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_live_streams",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "username",
+                "value": "test_user",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "password",
+                "value": "test_pass",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "action",
+                "value": "get_live_streams",
+                "type": "query",
+                "enabled": true
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Vods",
+      "filename": "Vods",
+      "seq": 3,
+      "root": {
+        "meta": {
+          "name": "Vods",
+          "seq": 3
+        }
+      },
+      "items": [
+        {
+          "type": "http",
+          "name": "Categories",
+          "filename": "Categories.bru",
+          "seq": 2,
+          "request": {
+            "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_vod_categories",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "username",
+                "value": "test_user",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "password",
+                "value": "test_pass",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "action",
+                "value": "get_vod_categories",
+                "type": "query",
+                "enabled": true
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "Vod Streams",
+          "filename": "Vod Streams.bru",
+          "seq": 1,
+          "request": {
+            "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_vod_streams",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "username",
+                "value": "test_user",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "password",
+                "value": "test_pass",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "action",
+                "value": "get_vod_streams",
+                "type": "query",
+                "enabled": true
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "Vod Stream",
+          "filename": "Vod Stream.bru",
+          "seq": 3,
+          "request": {
+            "url": "http://localhost:8080/movie/test_user/test_pass/1.mp4",
+            "method": "GET",
+            "headers": [],
+            "params": [],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Series",
+      "filename": "Series",
+      "seq": 4,
+      "root": {
+        "meta": {
+          "name": "Series",
+          "seq": 4
+        }
+      },
+      "items": [
+        {
+          "type": "http",
+          "name": "Categories",
+          "filename": "Categories.bru",
+          "seq": 4,
+          "request": {
+            "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_series_categories",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "username",
+                "value": "test_user",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "password",
+                "value": "test_pass",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "action",
+                "value": "get_series_categories",
+                "type": "query",
+                "enabled": true
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "Series",
+          "filename": "Series.bru",
+          "seq": 2,
+          "request": {
+            "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_series",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "username",
+                "value": "test_user",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "password",
+                "value": "test_pass",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "action",
+                "value": "get_series",
+                "type": "query",
+                "enabled": true
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        },
+        {
+          "type": "http",
+          "name": "Series copy",
+          "filename": "Series copy.bru",
+          "seq": 3,
+          "request": {
+            "url": "http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_series_info&series_id=18",
+            "method": "GET",
+            "headers": [],
+            "params": [
+              {
+                "name": "username",
+                "value": "test_user",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "password",
+                "value": "test_pass",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "action",
+                "value": "get_series_info",
+                "type": "query",
+                "enabled": true
+              },
+              {
+                "name": "series_id",
+                "value": "18",
+                "type": "query",
+                "enabled": true
+              }
+            ],
+            "body": {
+              "mode": "none",
+              "formUrlEncoded": [],
+              "multipartForm": [],
+              "file": []
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": "",
+            "auth": {
+              "mode": "inherit"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "environments": [],
+  "brunoConfig": {
+    "version": "1",
+    "name": "Collections",
+    "type": "collection",
+    "ignore": [
+      "node_modules",
+      ".git"
+    ],
+    "size": 0,
+    "filesCount": 0
+  }
+}
