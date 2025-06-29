@@ -1,23 +1,13 @@
 {
-  "18": {
+  "1": {
     "seasons": [
       {
         "air_date": "2015-04-10",
-        "episode_count": 13,
+        "episode_count": 1,
         "id": 1,
         "name": "Season 1",
         "overview": "",
-        "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PCCDPpeIB4rULFRP3Gk0TywGzc.jpg",
         "season_number": 1
-      },
-      {
-        "air_date": "2016-03-18",
-        "episode_count": 13,
-        "id": 2,
-        "name": "Season 2",
-        "overview": "",
-        "poster_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PCCDPpeIB4rULFRP3Gk0TywGzc.jpg",
-        "season_number": 2
       }
     ],
     "episodes": {
@@ -25,76 +15,17 @@
         {
           "id": "1",
           "episode_num": 1,
-          "title": "Into the Ring",
+          "season": 1,
+          "title": "Big Buck Bunny",
           "container_extension": "mp4",
+          "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "info": {
             "air_date": "2015-04-10",
             "crew": "",
-            "overview": "Matt Murdock fights the crime of New York as Daredevil.",
+            "overview": "",
             "rating": "8.2",
             "duration_secs": 3120,
             "duration": "52:00"
-          }
-        },
-        {
-          "id": "2",
-          "episode_num": 2,
-          "title": "Cut Man",
-          "container_extension": "mp4",
-          "info": {
-            "air_date": "2015-04-10",
-            "crew": "",
-            "overview": "Murdock makes a near fatal error while trying to save a kidnapped boy.",
-            "rating": "8.5",
-            "duration_secs": 3180,
-            "duration": "53:00"
-          }
-        }
-      ],
-      "2": [
-        {
-          "id": "14",
-          "episode_num": 1,
-          "title": "Bang",
-          "container_extension": "mp4",
-          "info": {
-            "air_date": "2016-03-18",
-            "crew": "",
-            "overview": "In the void left by Fisk's removal, a new threat to Hell's Kitchen emerges.",
-            "rating": "8.0",
-            "duration_secs": 3000,
-            "duration": "50:00"
-          }
-        }
-      ]
-    }
-  },
-  "22": {
-    "seasons": [
-      {
-        "air_date": "2015-11-20",
-        "episode_count": 13,
-        "id": 1,
-        "name": "Season 1",
-        "overview": "",
-        "poster_path": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
-        "season_number": 1
-      }
-    ],
-    "episodes": {
-      "1": [
-        {
-          "id": "1",
-          "episode_num": 1,
-          "title": "AKA Ladies Night",
-          "container_extension": "mp4",
-          "info": {
-            "air_date": "2015-11-20",
-            "crew": "",
-            "overview": "Jessica Jones is hired to find an NYU student who's gone missing.",
-            "rating": "8.1",
-            "duration_secs": 3000,
-            "duration": "50:00"
           }
         }
       ]

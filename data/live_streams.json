@@ -1,18 +1,20 @@
 [
   {
     "num": 1,
-    "name": "Test Channel 1",
+    "name": "Live Stream 1",
     "stream_type": "live",
     "stream_id": "1",
     "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "1"
+    "category_id": "1",
+    "stream_url" : "https://npr-ice.streamguys1.com/live.mp3"
   },
   {
     "num": 2,
-    "name": "Demo News Channel",
+    "name": "Live Stream 2",
     "stream_type": "live",
     "stream_id": "2",
     "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "2"
+    "category_id": "2",
+    "stream_url" : "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
   }
 ]

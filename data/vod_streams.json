@@ -3,9 +3,130 @@
     "num": 1,
     "name": "Big Buck Bunny",
     "stream_type": "movie",
-    "stream_id": "100",
+    "stream_id": "1",
     "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "10",
-    "container_extension": "mp4"
+    "category_id": "1",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "num": 2,
+    "name": "Elephant Dream",
+    "stream_type": "movie",
+    "stream_id": "2",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "1",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "num": 3,
+    "name": "For Bigger Blazes",
+    "stream_type": "movie",
+    "stream_id": "3",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "2",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "num": 4,
+    "name": "For Bigger Escape",
+    "stream_type": "movie",
+    "stream_id": "4",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "2",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "num": 5,
+    "name": "For Bigger Fun",
+    "stream_type": "movie",
+    "stream_id": "5",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "2",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "num": 6,
+    "name": "For Bigger Joyrides",
+    "stream_type": "movie",
+    "stream_id": "6",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "num": 7,
+    "name": "For Bigger Meltdowns",
+    "stream_type": "movie",
+    "stream_id": "7",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+  },
+  {
+    "num": 8,
+    "name": "Sintel",
+    "stream_type": "movie",
+    "stream_id": "8",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "num": 9,
+    "name": "Subaru Outback On Street And Dirt",
+    "stream_type": "movie",
+    "stream_id": "9",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+  },
+  {
+    "num": 10,
+    "name": "Tears of Steel",
+    "stream_type": "movie",
+    "stream_id": "10",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "num": 11,
+    "name": "Volkswagen GTI Review",
+    "stream_type": "movie",
+    "stream_id": "11",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+  },
+  {
+    "num": 12,
+    "name": "What care can you get for a grand?",
+    "stream_type": "movie",
+    "stream_id": "12",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+  },
+  {
+    "num": 13,
+    "name": "We Are Going On Bullrun",
+    "stream_type": "movie",
+    "stream_id": "13",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "3",
+    "container_extension": "mp4",
+    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
   }
 ]

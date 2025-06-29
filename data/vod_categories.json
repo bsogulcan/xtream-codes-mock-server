@@ -1,4 +1,5 @@
 [
-  {"category_id": "10", "category_name": "Movies", "parent_id": 0},
-  {"category_id": "11", "category_name": "Documentaries", "parent_id": 0}
+  {"category_id": "1", "category_name": "Category A", "parent_id": 0},
+  {"category_id": "2", "category_name": "Category B", "parent_id": 0},
+  {"category_id": "3", "category_name": "Category C", "parent_id": 0}
 ]
