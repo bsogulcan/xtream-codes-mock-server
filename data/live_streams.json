@@ -1,0 +1,18 @@
+[
+  {
+    "num": 1,
+    "name": "Test Channel 1",
+    "stream_type": "live",
+    "stream_id": "1",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "1"
+  },
+  {
+    "num": 2,
+    "name": "Demo News Channel",
+    "stream_type": "live",
+    "stream_id": "2",
+    "stream_icon": "https://via.placeholder.com/150",
+    "category_id": "2"
+  }
+]

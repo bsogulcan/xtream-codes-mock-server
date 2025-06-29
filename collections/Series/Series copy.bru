@@ -1,0 +1,17 @@
+meta {
+  name: Series copy
+  type: http
+  seq: 3
+}
+
+get {
+  url: http://localhost:8080/player_api.php?username=test_user&password=test_pass&action=get_series
+  body: none
+  auth: inherit
+}
+
+params:query {
+  username: test_user
+  password: test_pass
+  action: get_series
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "num": 1,
+    "name": "Marvel's Daredevil",
+    "series_id": 18,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PCCDPpeIB4rULFRP3Gk0TywGzc.jpg",
+    "plot": "Görme yetisini kaybetmiş olan Avukat Matt Murdock'ın diğer duyuları diğer insanlardan daha fazla gelişmiştir. Murdock suçsuz insanları başarıyla savunmasının yanı sıra, geceleri Daredevil kimliğiyle şehri kötülerden ve suçlulardan korumaktadır.",
+    "cast": "Charlie Cox, Deborah Ann Woll, Elden Henson, Vincent D'Onofrio, Jay Ali",
+    "director": "",
+    "genre": "Aksiyon, Suç",
+    "releaseDate": "2015-04-10",
+    "last_modified": "1648144278",
+    "rating": "8",
+    "rating_5based": 4,
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg"
+    ],
+    "youtube_trailer": "",
+    "episode_run_time": "52",
+    "category_id": "38"
+  },
+  {
+    "num": 2,
+    "name": "Marvel's Jessica Jones",
+    "series_id": 22,
+    "cover": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
+    "plot": "Travmatik geçmişinden kurtulamayan Jessica Jones, Hell's Kitchen'daki acımasız düşmanı başka birine daha zarar vermeden önce onu bulmak için özel yeteneklerini kullanır. (Dizi içeriği 18 yaş ve üzeri için uygundur)",
+    "cast": "Krysten Ritter, Rachael Taylor, Eka Darville, Benjamin Walker, Sarita Choudhury",
+    "director": "",
+    "genre": "Bilim Kurgu & Fantazi, Dram",
+    "releaseDate": "2015-11-20",
+    "last_modified": "1647687774",
+    "rating": "8",
+    "rating_5based": 4,
+    "backdrop_path": [
+      "http://image.tmdb.org/t/p/w1280/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg"
+    ],
+    "youtube_trailer": "",
+    "episode_run_time": "52",
+    "category_id": "38"
+  }
+]
