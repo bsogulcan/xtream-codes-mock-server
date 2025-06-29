@@ -1,2 +1,3 @@
-# xtream-codes-mock-server
-Mock Xtream Codes API server for IPTV app development and testing. 
+# Xtream Mock API Server
+
+A lightweight Docker-based mock server that simulates Xtream Codes API endpoints for IPTV application development and testing.
