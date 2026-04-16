@@ -1,5 +1,42 @@
 [
-  {"category_id": "1", "category_name": "Category A", "parent_id": 0},
-  {"category_id": "2", "category_name": "Category B", "parent_id": 0},
-  {"category_id": "3", "category_name": "Category C", "parent_id": 0}
+  {
+    "category_id": "1",
+    "category_name": "Ulusal",
+    "parent_id": 0
+  },
+  {
+    "category_id": "2",
+    "category_name": "Haber",
+    "parent_id": 0
+  },
+  {
+    "category_id": "3",
+    "category_name": "Spor",
+    "parent_id": 0
+  },
+  {
+    "category_id": "4",
+    "category_name": "Sinema",
+    "parent_id": 0
+  },
+  {
+    "category_id": "5",
+    "category_name": "Belgesel",
+    "parent_id": 0
+  },
+  {
+    "category_id": "6",
+    "category_name": "Çocuk",
+    "parent_id": 0
+  },
+  {
+    "category_id": "7",
+    "category_name": "Müzik",
+    "parent_id": 0
+  },
+  {
+    "category_id": "8",
+    "category_name": "Diğer / Uluslararası",
+    "parent_id": 0
+  }
 ]

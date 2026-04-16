@@ -18,6 +18,60 @@ function loadJsonData(filename) {
   }
 }
 
+function buildM3U() {
+  const liveCategories = loadJsonData('live_categories.json');
+  const liveStreams = loadJsonData('live_streams.json');
+  const vodCategories = loadJsonData('vod_categories.json');
+  const vodStreams = loadJsonData('vod_streams.json');
+  const seriesCategories = loadJsonData('series_categories.json');
+  const series = loadJsonData('series.json');
+  const seriesInfo = loadJsonData('series_info.json');
+
+  const catName = (cats, id) => {
+    const c = cats.find((x) => String(x.category_id) === String(id));
+    return c ? c.category_name : 'Diğer';
+  };
+
+  const lines = ['#EXTM3U'];
+
+  for (const s of liveStreams) {
+    const group = `Canlı / ${catName(liveCategories, s.category_id)}`;
+    lines.push(`#EXTINF:-1 tvg-id="${s.stream_id}" tvg-name="${s.name}" tvg-logo="${s.stream_icon}" group-title="${group}",${s.name}`);
+    lines.push(s.stream_url);
+  }
+
+  for (const v of vodStreams) {
+    const group = `VOD / ${catName(vodCategories, v.category_id)}`;
+    lines.push(`#EXTINF:-1 tvg-id="vod-${v.stream_id}" tvg-name="${v.name}" tvg-logo="${v.stream_icon}" group-title="${group}",${v.name}`);
+    lines.push(v.stream_url);
+  }
+
+  for (const sh of series) {
+    const info = seriesInfo[String(sh.series_id)];
+    if (!info || !info.episodes) continue;
+    const showGroup = `Dizi / ${catName(seriesCategories, sh.category_id)} / ${sh.name}`;
+    for (const seasonNum of Object.keys(info.episodes)) {
+      for (const ep of info.episodes[seasonNum]) {
+        const title = `${sh.name} S${String(seasonNum).padStart(2, '0')}E${String(ep.episode_num).padStart(2, '0')} - ${ep.title}`;
+        lines.push(`#EXTINF:-1 tvg-id="series-${ep.id}" tvg-name="${title}" tvg-logo="${sh.cover}" group-title="${showGroup}",${title}`);
+        lines.push(ep.stream_url);
+      }
+    }
+  }
+
+  return lines.join('\n') + '\n';
+}
+
+app.get('/get.php', (req, res) => {
+  const { username, password } = req.query;
+  if (username !== 'test_user' || password !== 'test_pass') {
+    return res.status(401).json({ error: 'Invalid credentials' });
+  }
+  res.set('Content-Type', 'application/x-mpegurl; charset=utf-8');
+  res.set('Content-Disposition', 'attachment; filename="playlist.m3u"');
+  res.send(buildM3U());
+});
+
 app.get('/player_api.php', (req, res) => {
   const { username, password, action, series_id, category_id } = req.query;
 

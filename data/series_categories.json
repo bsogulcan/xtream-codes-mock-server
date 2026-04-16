@@ -1,3 +1,4 @@
 [
-  {"category_id": "1", "category_name": "Category A", "parent_id": 0}
+  {"category_id": "1", "category_name": "Açık Kaynak Animasyon", "parent_id": 0},
+  {"category_id": "2", "category_name": "Test Yayın Koleksiyonu", "parent_id": 0}
 ]

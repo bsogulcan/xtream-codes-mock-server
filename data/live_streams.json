@@ -1,20 +1,1109 @@
 [
   {
     "num": 1,
-    "name": "Live Stream 1",
+    "name": "TRT 1",
     "stream_type": "live",
     "stream_id": "1",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%201",
     "category_id": "1",
-    "stream_url" : "https://npr-ice.streamguys1.com/live.mp3"
+    "stream_url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
   },
   {
     "num": 2,
-    "name": "Live Stream 2",
+    "name": "ATV",
     "stream_type": "live",
     "stream_id": "2",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV",
+    "category_id": "1",
+    "stream_url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
+  },
+  {
+    "num": 3,
+    "name": "ATV YEDEK",
+    "stream_type": "live",
+    "stream_id": "3",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV%20YEDEK",
+    "category_id": "1",
+    "stream_url": "http://116.202.238.88/ATV_TR/index.m3u8"
+  },
+  {
+    "num": 4,
+    "name": "ATV YEDEK 2",
+    "stream_type": "live",
+    "stream_id": "4",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV%20YEDEK%202",
+    "category_id": "1",
+    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+  },
+  {
+    "num": 5,
+    "name": "KANAL D",
+    "stream_type": "live",
+    "stream_id": "5",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%20D",
+    "category_id": "1",
+    "stream_url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
+  },
+  {
+    "num": 6,
+    "name": "KANAL D YEDEK",
+    "stream_type": "live",
+    "stream_id": "6",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%20D%20YEDEK",
+    "category_id": "1",
+    "stream_url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8"
+  },
+  {
+    "num": 7,
+    "name": "SHOW TV",
+    "stream_type": "live",
+    "stream_id": "7",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SHOW%20TV",
+    "category_id": "1",
+    "stream_url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8"
+  },
+  {
+    "num": 8,
+    "name": "SHOW TV YEDEK",
+    "stream_type": "live",
+    "stream_id": "8",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SHOW%20TV%20YEDEK",
+    "category_id": "1",
+    "stream_url": "http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web"
+  },
+  {
+    "num": 9,
+    "name": "STAR TV",
+    "stream_type": "live",
+    "stream_id": "9",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=STAR%20TV",
+    "category_id": "1",
+    "stream_url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8"
+  },
+  {
+    "num": 10,
+    "name": "NOW TV",
+    "stream_type": "live",
+    "stream_id": "10",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NOW%20TV",
+    "category_id": "1",
+    "stream_url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
+  },
+  {
+    "num": 11,
+    "name": "NOW TV YEDEK",
+    "stream_type": "live",
+    "stream_id": "11",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NOW%20TV%20YEDEK",
+    "category_id": "1",
+    "stream_url": "http://116.202.238.88/FOXTV_TR/index.m3u8"
+  },
+  {
+    "num": 12,
+    "name": "TV8",
+    "stream_type": "live",
+    "stream_id": "12",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV8",
+    "category_id": "1",
+    "stream_url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8"
+  },
+  {
+    "num": 13,
+    "name": "TV8,5",
+    "stream_type": "live",
+    "stream_id": "13",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV8%2C5",
+    "category_id": "1",
+    "stream_url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8"
+  },
+  {
+    "num": 14,
+    "name": "KANAL 7",
+    "stream_type": "live",
+    "stream_id": "14",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%207",
+    "category_id": "1",
+    "stream_url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
+  },
+  {
+    "num": 15,
+    "name": "KANAL 7 AVRUPA",
+    "stream_type": "live",
+    "stream_id": "15",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%207%20AVRUPA",
+    "category_id": "8",
+    "stream_url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+  },
+  {
+    "num": 16,
+    "name": "BEYAZ TV",
+    "stream_type": "live",
+    "stream_id": "16",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BEYAZ%20TV",
+    "category_id": "1",
+    "stream_url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8"
+  },
+  {
+    "num": 17,
+    "name": "360",
+    "stream_type": "live",
+    "stream_id": "17",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=360",
+    "category_id": "1",
+    "stream_url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+  },
+  {
+    "num": 18,
+    "name": "A2 TV",
+    "stream_type": "live",
+    "stream_id": "18",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=A2%20TV",
+    "category_id": "1",
+    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
+  },
+  {
+    "num": 19,
+    "name": "TEVE2",
+    "stream_type": "live",
+    "stream_id": "19",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TEVE2",
+    "category_id": "1",
+    "stream_url": "http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8"
+  },
+  {
+    "num": 20,
+    "name": "TLC",
+    "stream_type": "live",
+    "stream_id": "20",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TLC",
+    "category_id": "5",
+    "stream_url": "https://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8"
+  },
+  {
+    "num": 21,
+    "name": "DMAX",
+    "stream_type": "live",
+    "stream_id": "21",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=DMAX",
+    "category_id": "5",
+    "stream_url": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8"
+  },
+  {
+    "num": 22,
+    "name": "ATV AVRUPA",
+    "stream_type": "live",
+    "stream_id": "22",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV%20AVRUPA",
+    "category_id": "8",
+    "stream_url": "https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8"
+  },
+  {
+    "num": 23,
+    "name": "EURO D",
+    "stream_type": "live",
+    "stream_id": "23",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=EURO%20D",
+    "category_id": "8",
+    "stream_url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
+  },
+  {
+    "num": 24,
+    "name": "KANAL D DRAMA",
+    "stream_type": "live",
+    "stream_id": "24",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%20D%20DRAMA",
+    "category_id": "4",
+    "stream_url": "https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8"
+  },
+  {
+    "num": 25,
+    "name": "SHOW MAX",
+    "stream_type": "live",
+    "stream_id": "25",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SHOW%20MAX",
+    "category_id": "4",
+    "stream_url": "http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8"
+  },
+  {
+    "num": 26,
+    "name": "TRT 2",
+    "stream_type": "live",
+    "stream_id": "26",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%202",
+    "category_id": "8",
+    "stream_url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 27,
+    "name": "TRT AVAZ",
+    "stream_type": "live",
+    "stream_id": "27",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20AVAZ",
+    "category_id": "8",
+    "stream_url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 28,
+    "name": "TRT TURK",
+    "stream_type": "live",
+    "stream_id": "28",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20TURK",
+    "category_id": "8",
+    "stream_url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 29,
+    "name": "TV4",
+    "stream_type": "live",
+    "stream_id": "29",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV4",
+    "category_id": "1",
+    "stream_url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+  },
+  {
+    "num": 30,
+    "name": "TRT BELGESEL",
+    "stream_type": "live",
+    "stream_id": "30",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20BELGESEL",
+    "category_id": "5",
+    "stream_url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 31,
+    "name": "TGRT BELGESEL",
+    "stream_type": "live",
+    "stream_id": "31",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TGRT%20BELGESEL",
+    "category_id": "5",
+    "stream_url": "https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8"
+  },
+  {
+    "num": 32,
+    "name": "NAT GEO",
+    "stream_type": "live",
+    "stream_id": "32",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NAT%20GEO",
+    "category_id": "5",
+    "stream_url": "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+  },
+  {
+    "num": 33,
+    "name": "NAT GEO WİLD",
+    "stream_type": "live",
+    "stream_id": "33",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NAT%20GEO%20W%C4%B0LD",
+    "category_id": "5",
+    "stream_url": "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+  },
+  {
+    "num": 34,
+    "name": "TRT MÜZİK",
+    "stream_type": "live",
+    "stream_id": "34",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20M%C3%9CZ%C4%B0K",
+    "category_id": "7",
+    "stream_url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 35,
+    "name": "TRT HABER",
+    "stream_type": "live",
+    "stream_id": "35",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20HABER",
     "category_id": "2",
-    "stream_url" : "http://crystalout.surfernetwork.com:8001/KFNX_MP3"
+    "stream_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 36,
+    "name": "TRT WORLD",
+    "stream_type": "live",
+    "stream_id": "36",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20WORLD",
+    "category_id": "2",
+    "stream_url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 37,
+    "name": "AHABER",
+    "stream_type": "live",
+    "stream_id": "37",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AHABER",
+    "category_id": "2",
+    "stream_url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8"
+  },
+  {
+    "num": 38,
+    "name": "AHABER YEDEK",
+    "stream_type": "live",
+    "stream_id": "38",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AHABER%20YEDEK",
+    "category_id": "2",
+    "stream_url": "https://turkuaz.tecostream.xyz/ahaber"
+  },
+  {
+    "num": 39,
+    "name": "CNN TURK",
+    "stream_type": "live",
+    "stream_id": "39",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CNN%20TURK",
+    "category_id": "2",
+    "stream_url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8"
+  },
+  {
+    "num": 40,
+    "name": "NTV",
+    "stream_type": "live",
+    "stream_id": "40",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NTV",
+    "category_id": "2",
+    "stream_url": "http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8"
+  },
+  {
+    "num": 41,
+    "name": "HABER GLOBAL",
+    "stream_type": "live",
+    "stream_id": "41",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HABER%20GLOBAL",
+    "category_id": "2",
+    "stream_url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+  },
+  {
+    "num": 42,
+    "name": "HALK TV",
+    "stream_type": "live",
+    "stream_id": "42",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HALK%20TV",
+    "category_id": "2",
+    "stream_url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8"
+  },
+  {
+    "num": 43,
+    "name": "SOZCU TV",
+    "stream_type": "live",
+    "stream_id": "43",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SOZCU%20TV",
+    "category_id": "2",
+    "stream_url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8"
+  },
+  {
+    "num": 44,
+    "name": "TV 100",
+    "stream_type": "live",
+    "stream_id": "44",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV%20100",
+    "category_id": "2",
+    "stream_url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8"
+  },
+  {
+    "num": 45,
+    "name": "TELE1",
+    "stream_type": "live",
+    "stream_id": "45",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TELE1",
+    "category_id": "2",
+    "stream_url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
+  },
+  {
+    "num": 46,
+    "name": "TGRT HABER",
+    "stream_type": "live",
+    "stream_id": "46",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TGRT%20HABER",
+    "category_id": "2",
+    "stream_url": "https://canli.tgrthaber.com/tgrt.m3u8"
+  },
+  {
+    "num": 47,
+    "name": "24 TV",
+    "stream_type": "live",
+    "stream_id": "47",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=24%20TV",
+    "category_id": "2",
+    "stream_url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+  },
+  {
+    "num": 48,
+    "name": "HABERTURK",
+    "stream_type": "live",
+    "stream_id": "48",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HABERTURK",
+    "category_id": "2",
+    "stream_url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8"
+  },
+  {
+    "num": 49,
+    "name": "EKOL TV",
+    "stream_type": "live",
+    "stream_id": "49",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=EKOL%20TV",
+    "category_id": "2",
+    "stream_url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8"
+  },
+  {
+    "num": 50,
+    "name": "GZT",
+    "stream_type": "live",
+    "stream_id": "50",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=GZT",
+    "category_id": "2",
+    "stream_url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
+  },
+  {
+    "num": 51,
+    "name": "CNBC-E",
+    "stream_type": "live",
+    "stream_id": "51",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CNBC-E",
+    "category_id": "1",
+    "stream_url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+  },
+  {
+    "num": 52,
+    "name": "BLOOMBERGHT",
+    "stream_type": "live",
+    "stream_id": "52",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BLOOMBERGHT",
+    "category_id": "2",
+    "stream_url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8"
+  },
+  {
+    "num": 53,
+    "name": "ÜLKE TV",
+    "stream_type": "live",
+    "stream_id": "53",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=%C3%9CLKE%20TV",
+    "category_id": "1",
+    "stream_url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8"
+  },
+  {
+    "num": 54,
+    "name": "TVNET",
+    "stream_type": "live",
+    "stream_id": "54",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TVNET",
+    "category_id": "1",
+    "stream_url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8"
+  },
+  {
+    "num": 55,
+    "name": "TVDEN",
+    "stream_type": "live",
+    "stream_id": "55",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TVDEN",
+    "category_id": "1",
+    "stream_url": "https://canli.tvden.com.tr/hls/live.m3u8"
+  },
+  {
+    "num": 56,
+    "name": "BENGÜ TÜRK",
+    "stream_type": "live",
+    "stream_id": "56",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BENG%C3%9C%20T%C3%9CRK",
+    "category_id": "8",
+    "stream_url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+  },
+  {
+    "num": 57,
+    "name": "SAT7 TURK",
+    "stream_type": "live",
+    "stream_id": "57",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SAT7%20TURK",
+    "category_id": "8",
+    "stream_url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
+  },
+  {
+    "num": 58,
+    "name": "ULUSAL KANAL",
+    "stream_type": "live",
+    "stream_id": "58",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ULUSAL%20KANAL",
+    "category_id": "1",
+    "stream_url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8"
+  },
+  {
+    "num": 59,
+    "name": "FLASH HABER",
+    "stream_type": "live",
+    "stream_id": "59",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FLASH%20HABER",
+    "category_id": "2",
+    "stream_url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8"
+  },
+  {
+    "num": 60,
+    "name": "TGRT EU",
+    "stream_type": "live",
+    "stream_id": "60",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TGRT%20EU",
+    "category_id": "8",
+    "stream_url": "https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8"
+  },
+  {
+    "num": 61,
+    "name": "MELTEM TV",
+    "stream_type": "live",
+    "stream_id": "61",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=MELTEM%20TV",
+    "category_id": "8",
+    "stream_url": "https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8"
+  },
+  {
+    "num": 62,
+    "name": "FX",
+    "stream_type": "live",
+    "stream_id": "62",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FX",
+    "category_id": "4",
+    "stream_url": "https://saran-live.ercdn.net/fx/index.m3u8"
+  },
+  {
+    "num": 63,
+    "name": "TRT KURDİ",
+    "stream_type": "live",
+    "stream_id": "63",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20KURD%C4%B0",
+    "category_id": "8",
+    "stream_url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 64,
+    "name": "TRT ARABI",
+    "stream_type": "live",
+    "stream_id": "64",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20ARABI",
+    "category_id": "8",
+    "stream_url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 65,
+    "name": "TRT SPOR",
+    "stream_type": "live",
+    "stream_id": "65",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20SPOR",
+    "category_id": "3",
+    "stream_url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 66,
+    "name": "TRT SPOR YILDIZ",
+    "stream_type": "live",
+    "stream_id": "66",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20SPOR%20YILDIZ",
+    "category_id": "3",
+    "stream_url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 67,
+    "name": "ASPOR",
+    "stream_type": "live",
+    "stream_id": "67",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ASPOR",
+    "category_id": "3",
+    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
+  },
+  {
+    "num": 68,
+    "name": "ASPOR YEDEK",
+    "stream_type": "live",
+    "stream_id": "68",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ASPOR%20YEDEK",
+    "category_id": "3",
+    "stream_url": "http://116.202.238.88/ASPOR_TR/index.m3u8"
+  },
+  {
+    "num": 69,
+    "name": "BEİNSPORTS HABER",
+    "stream_type": "live",
+    "stream_id": "69",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BE%C4%B0NSPORTS%20HABER",
+    "category_id": "3",
+    "stream_url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8"
+  },
+  {
+    "num": 70,
+    "name": "HT SPOR",
+    "stream_type": "live",
+    "stream_id": "70",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HT%20SPOR",
+    "category_id": "3",
+    "stream_url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web"
+  },
+  {
+    "num": 71,
+    "name": "TİVİBUSPOR",
+    "stream_type": "live",
+    "stream_id": "71",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=T%C4%B0V%C4%B0BUSPOR",
+    "category_id": "3",
+    "stream_url": "https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8"
+  },
+  {
+    "num": 72,
+    "name": "EKOL SPORTS",
+    "stream_type": "live",
+    "stream_id": "72",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=EKOL%20SPORTS",
+    "category_id": "3",
+    "stream_url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1"
+  },
+  {
+    "num": 73,
+    "name": "SPORTSTV",
+    "stream_type": "live",
+    "stream_id": "73",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SPORTSTV",
+    "category_id": "3",
+    "stream_url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+  },
+  {
+    "num": 74,
+    "name": "SIFIRTV",
+    "stream_type": "live",
+    "stream_id": "74",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SIFIRTV",
+    "category_id": "1",
+    "stream_url": "https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8"
+  },
+  {
+    "num": 75,
+    "name": "FB TV",
+    "stream_type": "live",
+    "stream_id": "75",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FB%20TV",
+    "category_id": "3",
+    "stream_url": "https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8"
+  },
+  {
+    "num": 76,
+    "name": "TJK TV",
+    "stream_type": "live",
+    "stream_id": "76",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TJK%20TV",
+    "category_id": "3",
+    "stream_url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8"
+  },
+  {
+    "num": 77,
+    "name": "TAY TV",
+    "stream_type": "live",
+    "stream_id": "77",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAY%20TV",
+    "category_id": "3",
+    "stream_url": "http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8"
+  },
+  {
+    "num": 78,
+    "name": "TRT ÇOCUK",
+    "stream_type": "live",
+    "stream_id": "78",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20%C3%87OCUK",
+    "category_id": "6",
+    "stream_url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 79,
+    "name": "TRT DİYANET ÇOCUK",
+    "stream_type": "live",
+    "stream_id": "79",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20D%C4%B0YANET%20%C3%87OCUK",
+    "category_id": "6",
+    "stream_url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 80,
+    "name": "MİNİKA ÇOCUK",
+    "stream_type": "live",
+    "stream_id": "80",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=M%C4%B0N%C4%B0KA%20%C3%87OCUK",
+    "category_id": "6",
+    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8"
+  },
+  {
+    "num": 81,
+    "name": "MİNİKA GO",
+    "stream_type": "live",
+    "stream_id": "81",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=M%C4%B0N%C4%B0KA%20GO",
+    "category_id": "6",
+    "stream_url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8"
+  },
+  {
+    "num": 82,
+    "name": "DİSNEY JR",
+    "stream_type": "live",
+    "stream_id": "82",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=D%C4%B0SNEY%20JR",
+    "category_id": "6",
+    "stream_url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8"
+  },
+  {
+    "num": 83,
+    "name": "BABY TV",
+    "stream_type": "live",
+    "stream_id": "83",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BABY%20TV",
+    "category_id": "6",
+    "stream_url": "https://saran-live.ercdn.net/babytv/index.m3u8"
+  },
+  {
+    "num": 84,
+    "name": "DİYANET TV",
+    "stream_type": "live",
+    "stream_id": "84",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=D%C4%B0YANET%20TV",
+    "category_id": "5",
+    "stream_url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+  },
+  {
+    "num": 85,
+    "name": "TBMM TV",
+    "stream_type": "live",
+    "stream_id": "85",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TBMM%20TV",
+    "category_id": "8",
+    "stream_url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+  },
+  {
+    "num": 86,
+    "name": "TRT GENÇ",
+    "stream_type": "live",
+    "stream_id": "86",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20GEN%C3%87",
+    "category_id": "6",
+    "stream_url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 87,
+    "name": "AKİT TV",
+    "stream_type": "live",
+    "stream_id": "87",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AK%C4%B0T%20TV",
+    "category_id": "1",
+    "stream_url": "http://akittv-live.ercdn.net/akittv/akittv.m3u8"
+  },
+  {
+    "num": 88,
+    "name": "TİVİ6",
+    "stream_type": "live",
+    "stream_id": "88",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=T%C4%B0V%C4%B06",
+    "category_id": "1",
+    "stream_url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
+  },
+  {
+    "num": 89,
+    "name": "Bİ KANAL",
+    "stream_type": "live",
+    "stream_id": "89",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=B%C4%B0%20KANAL",
+    "category_id": "1",
+    "stream_url": "https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8"
+  },
+  {
+    "num": 90,
+    "name": "TELE10",
+    "stream_type": "live",
+    "stream_id": "90",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TELE10",
+    "category_id": "2",
+    "stream_url": "https://1a-1791.com/live/vf1v23qp/live-hls/sqpf-abtu/chunklist_i1_DVR.m3u8"
+  },
+  {
+    "num": 91,
+    "name": "TABİİ TV",
+    "stream_type": "live",
+    "stream_id": "91",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20TV",
+    "category_id": "1",
+    "stream_url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=DLMxZmNUkE--5TYdUlidYg"
+  },
+  {
+    "num": 92,
+    "name": "4U TV",
+    "stream_type": "live",
+    "stream_id": "92",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=4U%20TV",
+    "category_id": "1",
+    "stream_url": "https://hls.4utv.live/hls/stream.m3u8"
+  },
+  {
+    "num": 93,
+    "name": "TV1",
+    "stream_type": "live",
+    "stream_id": "93",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV1",
+    "category_id": "1",
+    "stream_url": "https://edge.taksimbilisim.com/tv1/bant1/playlist.m3u8"
+  },
+  {
+    "num": 94,
+    "name": "ÇİFTÇİ TV",
+    "stream_type": "live",
+    "stream_id": "94",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=%C3%87%C4%B0FT%C3%87%C4%B0%20TV",
+    "category_id": "5",
+    "stream_url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+  },
+  {
+    "num": 95,
+    "name": "YABAN TV",
+    "stream_type": "live",
+    "stream_id": "95",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=YABAN%20TV",
+    "category_id": "5",
+    "stream_url": "http://116.202.238.88/YABANTV_TR/index.m3u8"
+  },
+  {
+    "num": 96,
+    "name": "VAV TV",
+    "stream_type": "live",
+    "stream_id": "96",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=VAV%20TV",
+    "category_id": "8",
+    "stream_url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
+  },
+  {
+    "num": 97,
+    "name": "BRT1",
+    "stream_type": "live",
+    "stream_id": "97",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BRT1",
+    "category_id": "8",
+    "stream_url": "https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8"
+  },
+  {
+    "num": 98,
+    "name": "BRT2",
+    "stream_type": "live",
+    "stream_id": "98",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BRT2",
+    "category_id": "8",
+    "stream_url": "https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8"
+  },
+  {
+    "num": 99,
+    "name": "TYT TURK",
+    "stream_type": "live",
+    "stream_id": "99",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TYT%20TURK",
+    "category_id": "8",
+    "stream_url": "https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8"
+  },
+  {
+    "num": 100,
+    "name": "TELENEWS",
+    "stream_type": "live",
+    "stream_id": "100",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TELENEWS",
+    "category_id": "2",
+    "stream_url": "https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "num": 101,
+    "name": "SİNEMA TV",
+    "stream_type": "live",
+    "stream_id": "101",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20TV",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/sinema/index.m3u8"
+  },
+  {
+    "num": 102,
+    "name": "SİNEMA AİLE",
+    "stream_type": "live",
+    "stream_id": "102",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20A%C4%B0LE",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8"
+  },
+  {
+    "num": 103,
+    "name": "SİNEMA AKSİYON",
+    "stream_type": "live",
+    "stream_id": "103",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20AKS%C4%B0YON",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8"
+  },
+  {
+    "num": 104,
+    "name": "SİNEMA AKSİYON 2",
+    "stream_type": "live",
+    "stream_id": "104",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20AKS%C4%B0YON%202",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8"
+  },
+  {
+    "num": 105,
+    "name": "SİNEMA KOMEDİ",
+    "stream_type": "live",
+    "stream_id": "105",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20KOMED%C4%B0",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8"
+  },
+  {
+    "num": 106,
+    "name": "SİNEMA 1001",
+    "stream_type": "live",
+    "stream_id": "106",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%201001",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/sinema1001/index.m3u8"
+  },
+  {
+    "num": 107,
+    "name": "SİNEMA 1002",
+    "stream_type": "live",
+    "stream_id": "107",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%201002",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/sinema1002/index.m3u8"
+  },
+  {
+    "num": 108,
+    "name": "BEİN MOVİES ACTİON",
+    "stream_type": "live",
+    "stream_id": "108",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BE%C4%B0N%20MOV%C4%B0ES%20ACT%C4%B0ON",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/bsaction1/index.m3u8"
+  },
+  {
+    "num": 109,
+    "name": "BEİN MOVİES FAMİLY",
+    "stream_type": "live",
+    "stream_id": "109",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BE%C4%B0N%20MOV%C4%B0ES%20FAM%C4%B0LY",
+    "category_id": "4",
+    "stream_url": "https://mss.ayakkabiparti.lol/bsfamily/index.m3u8"
+  },
+  {
+    "num": 110,
+    "name": "AL JAZEERA",
+    "stream_type": "live",
+    "stream_id": "110",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AL%20JAZEERA",
+    "category_id": "2",
+    "stream_url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8"
+  },
+  {
+    "num": 111,
+    "name": "RUSSİA TODAY",
+    "stream_type": "live",
+    "stream_id": "111",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=RUSS%C4%B0A%20TODAY",
+    "category_id": "2",
+    "stream_url": "https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist.m3u8"
+  },
+  {
+    "num": 112,
+    "name": "FRANCE 24",
+    "stream_type": "live",
+    "stream_id": "112",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FRANCE%2024",
+    "category_id": "2",
+    "stream_url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8"
+  },
+  {
+    "num": 113,
+    "name": "CBS NEWS",
+    "stream_type": "live",
+    "stream_id": "113",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CBS%20NEWS",
+    "category_id": "2",
+    "stream_url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8"
+  },
+  {
+    "num": 114,
+    "name": "DW ENGLİSH",
+    "stream_type": "live",
+    "stream_id": "114",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=DW%20ENGL%C4%B0SH",
+    "category_id": "2",
+    "stream_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8"
+  },
+  {
+    "num": 115,
+    "name": "NHK WORLD",
+    "stream_type": "live",
+    "stream_id": "115",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NHK%20WORLD",
+    "category_id": "2",
+    "stream_url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/6847a0ee41836b524f602816c9a9e3836b4591c5dfeacd44bcbeb82f016a596b/v5.m3u8"
+  },
+  {
+    "num": 116,
+    "name": "PRESS TV",
+    "stream_type": "live",
+    "stream_id": "116",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=PRESS%20TV",
+    "category_id": "2",
+    "stream_url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+  },
+  {
+    "num": 117,
+    "name": "CGTN DOCUMENTARY",
+    "stream_type": "live",
+    "stream_id": "117",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CGTN%20DOCUMENTARY",
+    "category_id": "5",
+    "stream_url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8"
+  },
+  {
+    "num": 118,
+    "name": "TABİİ SPOR",
+    "stream_type": "live",
+    "stream_id": "118",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR",
+    "category_id": "3",
+    "stream_url": "https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 119,
+    "name": "TABİİ SPOR 1",
+    "stream_type": "live",
+    "stream_id": "119",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%201",
+    "category_id": "3",
+    "stream_url": "https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 120,
+    "name": "TABİİ SPOR 5",
+    "stream_type": "live",
+    "stream_id": "120",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%205",
+    "category_id": "3",
+    "stream_url": "https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 121,
+    "name": "TABİİ SPOR 6",
+    "stream_type": "live",
+    "stream_id": "121",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%206",
+    "category_id": "3",
+    "stream_url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_720p.m3u8"
+  },
+  {
+    "num": 122,
+    "name": "TABİİ SPOR 7",
+    "stream_type": "live",
+    "stream_id": "122",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%207",
+    "category_id": "3",
+    "stream_url": "https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "num": 123,
+    "name": "TRACE SPORT",
+    "stream_type": "live",
+    "stream_id": "123",
+    "stream_icon": "https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRACE%20SPORT",
+    "category_id": "3",
+    "stream_url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8"
   }
 ]

@@ -1,132 +1,152 @@
 [
   {
     "num": 1,
-    "name": "Big Buck Bunny",
+    "name": "Big Buck Bunny (720p)",
     "stream_type": "movie",
     "stream_id": "1",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg",
     "category_id": "1",
-    "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "container_extension": "mov",
+    "stream_url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov"
   },
   {
     "num": 2,
-    "name": "Elephant Dream",
+    "name": "Big Buck Bunny (480p)",
     "stream_type": "movie",
     "stream_id": "2",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg",
     "category_id": "1",
-    "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    "container_extension": "mov",
+    "stream_url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_h264.mov"
   },
   {
     "num": 3,
-    "name": "For Bigger Blazes",
+    "name": "Big Buck Bunny (Mobil)",
     "stream_type": "movie",
     "stream_id": "3",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "2",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg",
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    "stream_url": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
   },
   {
     "num": 4,
-    "name": "For Bigger Escape",
+    "name": "Big Buck Bunny - Trailer",
     "stream_type": "movie",
     "stream_id": "4",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "2",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg",
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    "stream_url": "https://media.w3.org/2010/05/bunny/trailer.mp4"
   },
   {
     "num": 5,
-    "name": "For Bigger Fun",
+    "name": "Sintel - Trailer (1080p)",
     "stream_type": "movie",
     "stream_id": "5",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "2",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sintel_poster.jpg/480px-Sintel_poster.jpg",
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    "stream_url": "https://download.blender.org/durian/trailer/sintel_trailer-1080p.mp4"
   },
   {
     "num": 6,
-    "name": "For Bigger Joyrides",
+    "name": "Sintel - Trailer (720p)",
     "stream_type": "movie",
     "stream_id": "6",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sintel_poster.jpg/480px-Sintel_poster.jpg",
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    "stream_url": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4"
   },
   {
     "num": 7,
-    "name": "For Bigger Meltdowns",
+    "name": "Sintel - Kısa Versiyon",
     "stream_type": "movie",
     "stream_id": "7",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sintel_poster.jpg/480px-Sintel_poster.jpg",
+    "category_id": "1",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+    "stream_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
   },
   {
     "num": 8,
-    "name": "Sintel",
+    "name": "Tears of Steel (HLS)",
     "stream_type": "movie",
     "stream_id": "8",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
-    "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tears_of_Steel_poster.jpg/480px-Tears_of_Steel_poster.jpg",
+    "category_id": "2",
+    "container_extension": "m3u8",
+    "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "num": 9,
-    "name": "Subaru Outback On Street And Dirt",
+    "name": "Tears of Steel (Smooth)",
     "stream_type": "movie",
     "stream_id": "9",
-    "stream_icon": "https://via.placeholder.com/150",
-    "category_id": "3",
-    "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tears_of_Steel_poster.jpg/480px-Tears_of_Steel_poster.jpg",
+    "category_id": "2",
+    "container_extension": "m3u8",
+    "stream_url": "https://test-streams.mux.dev/tos_ismc/main.m3u8"
   },
   {
     "num": 10,
-    "name": "Tears of Steel",
+    "name": "Bunny Örnek Klip",
     "stream_type": "movie",
     "stream_id": "10",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://media.w3.org/2010/05/bunny/poster.png",
     "category_id": "3",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    "stream_url": "https://media.w3.org/2010/05/bunny/movie.mp4"
   },
   {
     "num": 11,
-    "name": "Volkswagen GTI Review",
+    "name": "Test Klibi 300",
     "stream_type": "movie",
     "stream_id": "11",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://media.w3.org/2010/05/sintel/poster.png",
     "category_id": "3",
     "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+    "stream_url": "https://media.w3.org/2010/05/video/movie_300.mp4"
   },
   {
     "num": 12,
-    "name": "What care can you get for a grand?",
+    "name": "Apple BipBop (FMP4)",
     "stream_type": "movie",
     "stream_id": "12",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://dummyimage.com/300x450/0a84ff/ffffff.png&text=BipBop+FMP4",
     "category_id": "3",
-    "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+    "container_extension": "m3u8",
+    "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
   },
   {
     "num": 13,
-    "name": "We Are Going On Bullrun",
+    "name": "Apple BipBop (TS)",
     "stream_type": "movie",
     "stream_id": "13",
-    "stream_icon": "https://via.placeholder.com/150",
+    "stream_icon": "https://dummyimage.com/300x450/0a84ff/ffffff.png&text=BipBop+TS",
     "category_id": "3",
-    "container_extension": "mp4",
-    "stream_url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+    "container_extension": "m3u8",
+    "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
+  },
+  {
+    "num": 14,
+    "name": "Historic Planet (3D)",
+    "stream_type": "movie",
+    "stream_id": "14",
+    "stream_icon": "https://dummyimage.com/300x450/2c5364/ffffff.png&text=Historic+Planet",
+    "category_id": "4",
+    "container_extension": "m3u8",
+    "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8"
+  },
+  {
+    "num": 15,
+    "name": "Big Buck Bunny 4K (WebM)",
+    "stream_type": "movie",
+    "stream_id": "15",
+    "stream_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg",
+    "category_id": "1",
+    "container_extension": "webm",
+    "stream_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.1080p.vp9.webm"
   }
 ]

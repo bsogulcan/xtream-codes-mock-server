@@ -2,30 +2,142 @@
   "1": {
     "seasons": [
       {
-        "air_date": "2015-04-10",
-        "episode_count": 1,
+        "air_date": "2008-04-10",
+        "episode_count": 4,
         "id": 1,
-        "name": "Season 1",
-        "overview": "",
+        "name": "Sezon 1",
+        "overview": "Blender Vakfı'nın açık film projeleri.",
         "season_number": 1
       }
     ],
     "episodes": {
       "1": [
         {
-          "id": "1",
+          "id": "101",
           "episode_num": 1,
           "season": 1,
           "title": "Big Buck Bunny",
-          "container_extension": "mp4",
-          "stream_url" : "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+          "container_extension": "mov",
+          "stream_url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov",
           "info": {
-            "air_date": "2015-04-10",
-            "crew": "",
-            "overview": "",
+            "air_date": "2008-04-10",
+            "crew": "Sacha Goedegebure",
+            "overview": "Kocaman ve nazik bir tavşanın ormandaki üç haylaz hayvanla mücadelesi.",
             "rating": "8.2",
-            "duration_secs": 3120,
-            "duration": "52:00"
+            "duration_secs": 596,
+            "duration": "09:56"
+          }
+        },
+        {
+          "id": "102",
+          "episode_num": 2,
+          "season": 1,
+          "title": "Sintel",
+          "container_extension": "mp4",
+          "stream_url": "https://download.blender.org/durian/trailer/sintel_trailer-1080p.mp4",
+          "info": {
+            "air_date": "2010-09-27",
+            "crew": "Colin Levy",
+            "overview": "Genç bir kadının kayıp ejderha yavrusunu arayışını anlatan epik kısa film.",
+            "rating": "8.0",
+            "duration_secs": 52,
+            "duration": "00:52"
+          }
+        },
+        {
+          "id": "103",
+          "episode_num": 3,
+          "season": 1,
+          "title": "Tears of Steel",
+          "container_extension": "m3u8",
+          "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "info": {
+            "air_date": "2012-09-26",
+            "crew": "Ian Hubert",
+            "overview": "Bilim kurgu kısa filmi: dünyayı kurtarmak için zamana karşı yarışan bilim insanları.",
+            "rating": "7.5",
+            "duration_secs": 734,
+            "duration": "12:14"
+          }
+        },
+        {
+          "id": "104",
+          "episode_num": 4,
+          "season": 1,
+          "title": "Big Buck Bunny (Mobil)",
+          "container_extension": "mp4",
+          "stream_url": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "info": {
+            "air_date": "2008-04-10",
+            "crew": "Sacha Goedegebure",
+            "overview": "Big Buck Bunny'nin mobil cihazlar için optimize edilmiş 320x180 versiyonu.",
+            "rating": "8.0",
+            "duration_secs": 596,
+            "duration": "09:56"
+          }
+        }
+      ]
+    }
+  },
+  "2": {
+    "seasons": [
+      {
+        "air_date": "2016-01-01",
+        "episode_count": 3,
+        "id": 1,
+        "name": "Sezon 1",
+        "overview": "Apple HLS örnek yayın koleksiyonu.",
+        "season_number": 1
+      }
+    ],
+    "episodes": {
+      "1": [
+        {
+          "id": "201",
+          "episode_num": 1,
+          "season": 1,
+          "title": "BipBop Advanced (FMP4)",
+          "container_extension": "m3u8",
+          "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+          "info": {
+            "air_date": "2016-01-01",
+            "crew": "Apple Developer",
+            "overview": "fMP4 segmentleriyle çoklu bitrate HLS test yayını.",
+            "rating": "7.0",
+            "duration_secs": 600,
+            "duration": "10:00"
+          }
+        },
+        {
+          "id": "202",
+          "episode_num": 2,
+          "season": 1,
+          "title": "BipBop Advanced (TS)",
+          "container_extension": "m3u8",
+          "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
+          "info": {
+            "air_date": "2016-01-01",
+            "crew": "Apple Developer",
+            "overview": "MPEG-TS segmentleriyle klasik HLS test yayını.",
+            "rating": "7.0",
+            "duration_secs": 600,
+            "duration": "10:00"
+          }
+        },
+        {
+          "id": "203",
+          "episode_num": 3,
+          "season": 1,
+          "title": "Historic Planet (3D)",
+          "container_extension": "m3u8",
+          "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8",
+          "info": {
+            "air_date": "2023-10-26",
+            "crew": "Apple",
+            "overview": "Apple Vision Pro için hazırlanmış 3D belgesel örnek içeriği.",
+            "rating": "7.5",
+            "duration_secs": 300,
+            "duration": "05:00"
           }
         }
       ]

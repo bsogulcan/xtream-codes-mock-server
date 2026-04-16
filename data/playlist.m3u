@@ -1,0 +1,291 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="TRT 1" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%201" group-title="Canlı / Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="ATV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV" group-title="Canlı / Ulusal",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="ATV YEDEK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV%20YEDEK" group-title="Canlı / Ulusal",ATV YEDEK
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="ATV YEDEK 2" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV%20YEDEK%202" group-title="Canlı / Ulusal",ATV YEDEK 2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="KANAL D" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%20D" group-title="Canlı / Ulusal",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="6" tvg-name="KANAL D YEDEK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%20D%20YEDEK" group-title="Canlı / Ulusal",KANAL D YEDEK
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="SHOW TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SHOW%20TV" group-title="Canlı / Ulusal",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="SHOW TV YEDEK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SHOW%20TV%20YEDEK" group-title="Canlı / Ulusal",SHOW TV YEDEK
+http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+#EXTINF:-1 tvg-id="9" tvg-name="STAR TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=STAR%20TV" group-title="Canlı / Ulusal",STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="NOW TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NOW%20TV" group-title="Canlı / Ulusal",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="NOW TV YEDEK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NOW%20TV%20YEDEK" group-title="Canlı / Ulusal",NOW TV YEDEK
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="TV8" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV8" group-title="Canlı / Ulusal",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="TV8,5" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV8%2C5" group-title="Canlı / Ulusal",TV8,5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="KANAL 7" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%207" group-title="Canlı / Ulusal",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%207%20AVRUPA" group-title="Canlı / Diğer / Uluslararası",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="BEYAZ TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BEYAZ%20TV" group-title="Canlı / Ulusal",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="360" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=360" group-title="Canlı / Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="A2 TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=A2%20TV" group-title="Canlı / Ulusal",A2 TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="TEVE2" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TEVE2" group-title="Canlı / Ulusal",TEVE2
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="TLC" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TLC" group-title="Canlı / Belgesel",TLC
+https://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="DMAX" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=DMAX" group-title="Canlı / Belgesel",DMAX
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="ATV AVRUPA" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ATV%20AVRUPA" group-title="Canlı / Diğer / Uluslararası",ATV AVRUPA
+https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="EURO D" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=EURO%20D" group-title="Canlı / Diğer / Uluslararası",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="KANAL D DRAMA" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=KANAL%20D%20DRAMA" group-title="Canlı / Sinema",KANAL D DRAMA
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="SHOW MAX" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SHOW%20MAX" group-title="Canlı / Sinema",SHOW MAX
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="TRT 2" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%202" group-title="Canlı / Diğer / Uluslararası",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="TRT AVAZ" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20AVAZ" group-title="Canlı / Diğer / Uluslararası",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="TRT TURK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20TURK" group-title="Canlı / Diğer / Uluslararası",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="TV4" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV4" group-title="Canlı / Ulusal",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="TRT BELGESEL" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20BELGESEL" group-title="Canlı / Belgesel",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="TGRT BELGESEL" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TGRT%20BELGESEL" group-title="Canlı / Belgesel",TGRT BELGESEL
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="NAT GEO" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NAT%20GEO" group-title="Canlı / Belgesel",NAT GEO
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="NAT GEO WİLD" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NAT%20GEO%20W%C4%B0LD" group-title="Canlı / Belgesel",NAT GEO WİLD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="TRT MÜZİK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20M%C3%9CZ%C4%B0K" group-title="Canlı / Müzik",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="TRT HABER" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20HABER" group-title="Canlı / Haber",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="TRT WORLD" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20WORLD" group-title="Canlı / Haber",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="AHABER" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AHABER" group-title="Canlı / Haber",AHABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="AHABER YEDEK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AHABER%20YEDEK" group-title="Canlı / Haber",AHABER YEDEK
+https://turkuaz.tecostream.xyz/ahaber
+#EXTINF:-1 tvg-id="39" tvg-name="CNN TURK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CNN%20TURK" group-title="Canlı / Haber",CNN TURK
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="NTV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NTV" group-title="Canlı / Haber",NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="HABER GLOBAL" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HABER%20GLOBAL" group-title="Canlı / Haber",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="HALK TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HALK%20TV" group-title="Canlı / Haber",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="SOZCU TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SOZCU%20TV" group-title="Canlı / Haber",SOZCU TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="TV 100" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV%20100" group-title="Canlı / Haber",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="TELE1" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TELE1" group-title="Canlı / Haber",TELE1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="TGRT HABER" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TGRT%20HABER" group-title="Canlı / Haber",TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="24 TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=24%20TV" group-title="Canlı / Haber",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="HABERTURK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HABERTURK" group-title="Canlı / Haber",HABERTURK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="EKOL TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=EKOL%20TV" group-title="Canlı / Haber",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="GZT" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=GZT" group-title="Canlı / Haber",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="CNBC-E" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CNBC-E" group-title="Canlı / Ulusal",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="BLOOMBERGHT" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BLOOMBERGHT" group-title="Canlı / Haber",BLOOMBERGHT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="ÜLKE TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=%C3%9CLKE%20TV" group-title="Canlı / Ulusal",ÜLKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="TVNET" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TVNET" group-title="Canlı / Ulusal",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="TVDEN" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TVDEN" group-title="Canlı / Ulusal",TVDEN
+https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="BENGÜ TÜRK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BENG%C3%9C%20T%C3%9CRK" group-title="Canlı / Diğer / Uluslararası",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="SAT7 TURK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SAT7%20TURK" group-title="Canlı / Diğer / Uluslararası",SAT7 TURK
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="ULUSAL KANAL" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ULUSAL%20KANAL" group-title="Canlı / Ulusal",ULUSAL KANAL
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="FLASH HABER" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FLASH%20HABER" group-title="Canlı / Haber",FLASH HABER
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="TGRT EU" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TGRT%20EU" group-title="Canlı / Diğer / Uluslararası",TGRT EU
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="MELTEM TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=MELTEM%20TV" group-title="Canlı / Diğer / Uluslararası",MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="FX" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FX" group-title="Canlı / Sinema",FX
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="TRT KURDİ" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20KURD%C4%B0" group-title="Canlı / Diğer / Uluslararası",TRT KURDİ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="64" tvg-name="TRT ARABI" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20ARABI" group-title="Canlı / Diğer / Uluslararası",TRT ARABI
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="TRT SPOR" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20SPOR" group-title="Canlı / Spor",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20SPOR%20YILDIZ" group-title="Canlı / Spor",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="ASPOR" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ASPOR" group-title="Canlı / Spor",ASPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="ASPOR YEDEK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=ASPOR%20YEDEK" group-title="Canlı / Spor",ASPOR YEDEK
+http://116.202.238.88/ASPOR_TR/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="BEİNSPORTS HABER" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BE%C4%B0NSPORTS%20HABER" group-title="Canlı / Spor",BEİNSPORTS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="HT SPOR" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=HT%20SPOR" group-title="Canlı / Spor",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="71" tvg-name="TİVİBUSPOR" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=T%C4%B0V%C4%B0BUSPOR" group-title="Canlı / Spor",TİVİBUSPOR
+https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="EKOL SPORTS" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=EKOL%20SPORTS" group-title="Canlı / Spor",EKOL SPORTS
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+#EXTINF:-1 tvg-id="73" tvg-name="SPORTSTV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SPORTSTV" group-title="Canlı / Spor",SPORTSTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="SIFIRTV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=SIFIRTV" group-title="Canlı / Ulusal",SIFIRTV
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="FB TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FB%20TV" group-title="Canlı / Spor",FB TV
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="TJK TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TJK%20TV" group-title="Canlı / Spor",TJK TV
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="TAY TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAY%20TV" group-title="Canlı / Spor",TAY TV
+http://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="TRT ÇOCUK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20%C3%87OCUK" group-title="Canlı / Çocuk",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="TRT DİYANET ÇOCUK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20D%C4%B0YANET%20%C3%87OCUK" group-title="Canlı / Çocuk",TRT DİYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="MİNİKA ÇOCUK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=M%C4%B0N%C4%B0KA%20%C3%87OCUK" group-title="Canlı / Çocuk",MİNİKA ÇOCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="MİNİKA GO" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=M%C4%B0N%C4%B0KA%20GO" group-title="Canlı / Çocuk",MİNİKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="DİSNEY JR" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=D%C4%B0SNEY%20JR" group-title="Canlı / Çocuk",DİSNEY JR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="BABY TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BABY%20TV" group-title="Canlı / Çocuk",BABY TV
+https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="DİYANET TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=D%C4%B0YANET%20TV" group-title="Canlı / Belgesel",DİYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="TBMM TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TBMM%20TV" group-title="Canlı / Diğer / Uluslararası",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="TRT GENÇ" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRT%20GEN%C3%87" group-title="Canlı / Çocuk",TRT GENÇ
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="AKİT TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AK%C4%B0T%20TV" group-title="Canlı / Ulusal",AKİT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="TİVİ6" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=T%C4%B0V%C4%B06" group-title="Canlı / Ulusal",TİVİ6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="Bİ KANAL" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=B%C4%B0%20KANAL" group-title="Canlı / Ulusal",Bİ KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="TELE10" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TELE10" group-title="Canlı / Haber",TELE10
+https://1a-1791.com/live/vf1v23qp/live-hls/sqpf-abtu/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="TABİİ TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20TV" group-title="Canlı / Ulusal",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=DLMxZmNUkE--5TYdUlidYg
+#EXTINF:-1 tvg-id="92" tvg-name="4U TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=4U%20TV" group-title="Canlı / Ulusal",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="TV1" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TV1" group-title="Canlı / Ulusal",TV1
+https://edge.taksimbilisim.com/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="ÇİFTÇİ TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=%C3%87%C4%B0FT%C3%87%C4%B0%20TV" group-title="Canlı / Belgesel",ÇİFTÇİ TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="YABAN TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=YABAN%20TV" group-title="Canlı / Belgesel",YABAN TV
+http://116.202.238.88/YABANTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="VAV TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=VAV%20TV" group-title="Canlı / Diğer / Uluslararası",VAV TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="BRT1" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BRT1" group-title="Canlı / Diğer / Uluslararası",BRT1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="BRT2" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BRT2" group-title="Canlı / Diğer / Uluslararası",BRT2
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="TYT TURK" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TYT%20TURK" group-title="Canlı / Diğer / Uluslararası",TYT TURK
+https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="TELENEWS" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TELENEWS" group-title="Canlı / Haber",TELENEWS
+https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="SİNEMA TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20TV" group-title="Canlı / Sinema",SİNEMA TV
+https://mss.ayakkabiparti.lol/sinema/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="SİNEMA AİLE" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20A%C4%B0LE" group-title="Canlı / Sinema",SİNEMA AİLE
+https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="SİNEMA AKSİYON" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20AKS%C4%B0YON" group-title="Canlı / Sinema",SİNEMA AKSİYON
+https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="SİNEMA AKSİYON 2" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20AKS%C4%B0YON%202" group-title="Canlı / Sinema",SİNEMA AKSİYON 2
+https://mss.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="SİNEMA KOMEDİ" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%20KOMED%C4%B0" group-title="Canlı / Sinema",SİNEMA KOMEDİ
+https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="SİNEMA 1001" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%201001" group-title="Canlı / Sinema",SİNEMA 1001
+https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="SİNEMA 1002" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=S%C4%B0NEMA%201002" group-title="Canlı / Sinema",SİNEMA 1002
+https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="BEİN MOVİES ACTİON" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BE%C4%B0N%20MOV%C4%B0ES%20ACT%C4%B0ON" group-title="Canlı / Sinema",BEİN MOVİES ACTİON
+https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="BEİN MOVİES FAMİLY" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=BE%C4%B0N%20MOV%C4%B0ES%20FAM%C4%B0LY" group-title="Canlı / Sinema",BEİN MOVİES FAMİLY
+https://mss.ayakkabiparti.lol/bsfamily/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="AL JAZEERA" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=AL%20JAZEERA" group-title="Canlı / Haber",AL JAZEERA
+https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="RUSSİA TODAY" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=RUSS%C4%B0A%20TODAY" group-title="Canlı / Haber",RUSSİA TODAY
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="FRANCE 24" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=FRANCE%2024" group-title="Canlı / Haber",FRANCE 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="CBS NEWS" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CBS%20NEWS" group-title="Canlı / Haber",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="DW ENGLİSH" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=DW%20ENGL%C4%B0SH" group-title="Canlı / Haber",DW ENGLİSH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="NHK WORLD" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=NHK%20WORLD" group-title="Canlı / Haber",NHK WORLD
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/6847a0ee41836b524f602816c9a9e3836b4591c5dfeacd44bcbeb82f016a596b/v5.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="PRESS TV" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=PRESS%20TV" group-title="Canlı / Haber",PRESS TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=CGTN%20DOCUMENTARY" group-title="Canlı / Belgesel",CGTN DOCUMENTARY
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="TABİİ SPOR" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR" group-title="Canlı / Spor",TABİİ SPOR
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="TABİİ SPOR 1" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%201" group-title="Canlı / Spor",TABİİ SPOR 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="TABİİ SPOR 5" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%205" group-title="Canlı / Spor",TABİİ SPOR 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="TABİİ SPOR 6" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%206" group-title="Canlı / Spor",TABİİ SPOR 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_720p.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="TABİİ SPOR 7" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TAB%C4%B0%C4%B0%20SPOR%207" group-title="Canlı / Spor",TABİİ SPOR 7
+https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="TRACE SPORT" tvg-logo="https://dummyimage.com/300x300/1a1a1a/ffffff.png&text=TRACE%20SPORT" group-title="Canlı / Spor",TRACE SPORT
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="vod-1" tvg-name="Big Buck Bunny (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="VOD / Animasyon",Big Buck Bunny (720p)
+https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
+#EXTINF:-1 tvg-id="vod-2" tvg-name="Big Buck Bunny (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="VOD / Animasyon",Big Buck Bunny (480p)
+https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_480p_h264.mov
+#EXTINF:-1 tvg-id="vod-3" tvg-name="Big Buck Bunny (Mobil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="VOD / Animasyon",Big Buck Bunny (Mobil)
+https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4
+#EXTINF:-1 tvg-id="vod-4" tvg-name="Big Buck Bunny - Trailer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="VOD / Animasyon",Big Buck Bunny - Trailer
+https://media.w3.org/2010/05/bunny/trailer.mp4
+#EXTINF:-1 tvg-id="vod-5" tvg-name="Sintel - Trailer (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sintel_poster.jpg/480px-Sintel_poster.jpg" group-title="VOD / Animasyon",Sintel - Trailer (1080p)
+https://download.blender.org/durian/trailer/sintel_trailer-1080p.mp4
+#EXTINF:-1 tvg-id="vod-6" tvg-name="Sintel - Trailer (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sintel_poster.jpg/480px-Sintel_poster.jpg" group-title="VOD / Animasyon",Sintel - Trailer (720p)
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+#EXTINF:-1 tvg-id="vod-7" tvg-name="Sintel - Kısa Versiyon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sintel_poster.jpg/480px-Sintel_poster.jpg" group-title="VOD / Animasyon",Sintel - Kısa Versiyon
+https://media.w3.org/2010/05/sintel/trailer.mp4
+#EXTINF:-1 tvg-id="vod-8" tvg-name="Tears of Steel (HLS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tears_of_Steel_poster.jpg/480px-Tears_of_Steel_poster.jpg" group-title="VOD / Aksiyon",Tears of Steel (HLS)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="vod-9" tvg-name="Tears of Steel (Smooth)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tears_of_Steel_poster.jpg/480px-Tears_of_Steel_poster.jpg" group-title="VOD / Aksiyon",Tears of Steel (Smooth)
+https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-id="vod-10" tvg-name="Bunny Örnek Klip" tvg-logo="https://media.w3.org/2010/05/bunny/poster.png" group-title="VOD / Kısa Film",Bunny Örnek Klip
+https://media.w3.org/2010/05/bunny/movie.mp4
+#EXTINF:-1 tvg-id="vod-11" tvg-name="Test Klibi 300" tvg-logo="https://media.w3.org/2010/05/sintel/poster.png" group-title="VOD / Kısa Film",Test Klibi 300
+https://media.w3.org/2010/05/video/movie_300.mp4
+#EXTINF:-1 tvg-id="vod-12" tvg-name="Apple BipBop (FMP4)" tvg-logo="https://dummyimage.com/300x450/0a84ff/ffffff.png&text=BipBop+FMP4" group-title="VOD / Kısa Film",Apple BipBop (FMP4)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="vod-13" tvg-name="Apple BipBop (TS)" tvg-logo="https://dummyimage.com/300x450/0a84ff/ffffff.png&text=BipBop+TS" group-title="VOD / Kısa Film",Apple BipBop (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="vod-14" tvg-name="Historic Planet (3D)" tvg-logo="https://dummyimage.com/300x450/2c5364/ffffff.png&text=Historic+Planet" group-title="VOD / Belgesel",Historic Planet (3D)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8
+#EXTINF:-1 tvg-id="vod-15" tvg-name="Big Buck Bunny 4K (WebM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="VOD / Animasyon",Big Buck Bunny 4K (WebM)
+https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.1080p.vp9.webm
+#EXTINF:-1 tvg-id="series-101" tvg-name="Blender Açık Film Koleksiyonu S01E01 - Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="Dizi / Açık Kaynak Animasyon / Blender Açık Film Koleksiyonu",Blender Açık Film Koleksiyonu S01E01 - Big Buck Bunny
+https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
+#EXTINF:-1 tvg-id="series-102" tvg-name="Blender Açık Film Koleksiyonu S01E02 - Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="Dizi / Açık Kaynak Animasyon / Blender Açık Film Koleksiyonu",Blender Açık Film Koleksiyonu S01E02 - Sintel
+https://download.blender.org/durian/trailer/sintel_trailer-1080p.mp4
+#EXTINF:-1 tvg-id="series-103" tvg-name="Blender Açık Film Koleksiyonu S01E03 - Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="Dizi / Açık Kaynak Animasyon / Blender Açık Film Koleksiyonu",Blender Açık Film Koleksiyonu S01E03 - Tears of Steel
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="series-104" tvg-name="Blender Açık Film Koleksiyonu S01E04 - Big Buck Bunny (Mobil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg" group-title="Dizi / Açık Kaynak Animasyon / Blender Açık Film Koleksiyonu",Blender Açık Film Koleksiyonu S01E04 - Big Buck Bunny (Mobil)
+https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4
+#EXTINF:-1 tvg-id="series-201" tvg-name="Apple BipBop Test Yayınları S01E01 - BipBop Advanced (FMP4)" tvg-logo="https://dummyimage.com/480x720/0a84ff/ffffff.png&text=BipBop" group-title="Dizi / Test Yayın Koleksiyonu / Apple BipBop Test Yayınları",Apple BipBop Test Yayınları S01E01 - BipBop Advanced (FMP4)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="series-202" tvg-name="Apple BipBop Test Yayınları S01E02 - BipBop Advanced (TS)" tvg-logo="https://dummyimage.com/480x720/0a84ff/ffffff.png&text=BipBop" group-title="Dizi / Test Yayın Koleksiyonu / Apple BipBop Test Yayınları",Apple BipBop Test Yayınları S01E02 - BipBop Advanced (TS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="series-203" tvg-name="Apple BipBop Test Yayınları S01E03 - Historic Planet (3D)" tvg-logo="https://dummyimage.com/480x720/0a84ff/ffffff.png&text=BipBop" group-title="Dizi / Test Yayın Koleksiyonu / Apple BipBop Test Yayınları",Apple BipBop Test Yayınları S01E03 - Historic Planet (3D)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8
