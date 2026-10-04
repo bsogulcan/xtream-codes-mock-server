@@ -1,6 +1,22 @@
 [
-  {"category_id": "1", "category_name": "Animasyon", "parent_id": 0},
-  {"category_id": "2", "category_name": "Aksiyon", "parent_id": 0},
-  {"category_id": "3", "category_name": "Kısa Film", "parent_id": 0},
-  {"category_id": "4", "category_name": "Belgesel", "parent_id": 0}
+  {
+    "category_id": "1",
+    "category_name": "Doğa ve Komedi",
+    "parent_id": 0
+  },
+  {
+    "category_id": "2",
+    "category_name": "Fantastik Yolculuklar",
+    "parent_id": 0
+  },
+  {
+    "category_id": "3",
+    "category_name": "Bilim Kurgu",
+    "parent_id": 0
+  },
+  {
+    "category_id": "4",
+    "category_name": "Kısa Animasyonlar",
+    "parent_id": 0
+  }
 ]

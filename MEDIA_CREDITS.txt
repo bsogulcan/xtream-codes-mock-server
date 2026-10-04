@@ -1,0 +1,101 @@
+SCREENSHOT MEDIA CREDITS / EKRAN GÖRÜNTÜSÜ MEDYA ATIFLARI
+
+Bu katalog lisanssız değildir: Creative Commons Attribution (CC BY) içerir.
+Ekran görüntülerini paylaşırken kullanılan her film için aşağıdaki atfı ve lisans bağlantısını görünür şekilde görsel açıklamasına veya beraberindeki kredilere ekleyin.
+Videolar resmi kaynaktan tam olarak oynatılır; kapanış jeneriklerini koruyun.
+Kapaklar video karesinden JPEG olarak çıkarılmış ve 2:3 oranında merkezden kırpılmıştır. Arka planlar yeniden boyutlandırılmış video kareleridir.
+Logo ve markalar CC lisansının kapsamına dahil değildir. Bu katalog ayrı kanal/film logoları kullanmaz.
+Demo kanallar sonlu filmlerdir; gerçek canlı yayın değildir. Koleksiyonlar aynı filmleri bölüm arayüzünde sunar.
+Doğrulama: 2026-10-04. Lisans dayanağı her kayıtta belirtilmiştir.
+
+
+
+Big Buck Bunny
+© 2008 Blender Foundation / www.bigbuckbunny.org — CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Film: https://video.blender.org/videos/watch/bf1f3fb5-b119-4f9f-9930-8e20e892b898
+Lisans kaynağı: https://peach.blender.org/about/
+Lisans dayanağı: project-specific
+Görseller: big-buck-bunny-cover.jpg / big-buck-bunny-backdrop.jpg
+Kaynak kare: 45. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Sintel
+© Blender Foundation | durian.blender.org — CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Film: https://video.blender.org/videos/watch/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40
+Lisans kaynağı: https://durian.blender.org/sharing/
+Lisans dayanağı: project-specific
+Görseller: sintel-cover.jpg / sintel-backdrop.jpg
+Kaynak kare: 180. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Elephants Dream
+© 2006 Blender Foundation / Netherlands Media Art Institute / www.elephantsdream.org — CC BY 2.5
+https://creativecommons.org/licenses/by/2.5/
+Film: https://video.blender.org/videos/watch/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5
+Lisans kaynağı: https://orange.blender.org/blog/creative-commons-license-2/
+Lisans dayanağı: project-specific
+Görseller: elephants-dream-cover.jpg / elephants-dream-backdrop.jpg
+Kaynak kare: 90. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Tears of Steel
+© Blender Foundation | www.tearsofsteel.org — CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Film: https://video.blender.org/videos/watch/8533ea43-4271-4a57-9694-e9d0b35e1aa1
+Lisans kaynağı: https://mango.blender.org/about/
+Lisans dayanağı: project-specific
+Görseller: tears-of-steel-cover.jpg / tears-of-steel-backdrop.jpg
+Kaynak kare: 180. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Cosmos Laundromat: First Cycle
+© Blender Foundation | gooseberry.blender.org — CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Film: https://video.blender.org/videos/watch/f507dfdc-e73e-45a4-9778-d758cbe1ce96
+Lisans kaynağı: https://gooseberry.blender.org/about/
+Lisans dayanağı: project-specific
+Görseller: cosmos-laundromat-cover.jpg / cosmos-laundromat-backdrop.jpg
+Kaynak kare: 210. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Glass Half
+© Blender Foundation | studio.blender.org — CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Film: https://video.blender.org/videos/watch/64222c8a-c4c7-4b3b-9850-7fb2078edcf6
+Lisans kaynağı: https://studio.blender.org/projects/glass-half/pages/licensing/
+Lisans dayanağı: project-specific
+Görseller: glass-half-cover.jpg / glass-half-backdrop.jpg
+Kaynak kare: 45. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Spring
+© Blender Foundation | cloud.blender.org/spring — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://video.blender.org/videos/watch/3d95fb3d-c866-42c8-9db1-fe82f48ccb95
+Lisans kaynağı: https://studio.blender.org/projects/spring/pages/about/
+Lisans dayanağı: project-specific
+Görseller: spring-cover.jpg / spring-backdrop.jpg
+Kaynak kare: 100. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Coffee Run
+© Blender Foundation | studio.blender.org — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://video.blender.org/videos/watch/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1
+Lisans kaynağı: https://studio.blender.org/projects/coffee-run/pages/licensing/
+Lisans dayanağı: project-specific
+Görseller: coffee-run-cover.jpg / coffee-run-backdrop.jpg
+Kaynak kare: 40. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Charge
+© Blender Foundation | studio.blender.org/charge — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://video.blender.org/videos/watch/04da454b-9893-4184-98f3-248d00625efe
+Lisans kaynağı: https://video.blender.org/videos/watch/04da454b-9893-4184-98f3-248d00625efe
+Lisans dayanağı: CC BY 4.0 explicitly displayed in the closing license card of the official film
+Görseller: charge-cover.jpg / charge-backdrop.jpg
+Kaynak kare: 105. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+
+Wing It!
+© Blender Foundation | studio.blender.org — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://video.blender.org/videos/watch/bd0084a5-1d26-4816-ab5e-1bad9e2fb990
+Lisans kaynağı: https://studio.blender.org/projects/wing-it/pages/licensing/
+Lisans dayanağı: project-specific
+Görseller: wing-it-cover.jpg / wing-it-backdrop.jpg
+Kaynak kare: 15. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.

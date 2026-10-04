@@ -1,143 +1,289 @@
 {
-  "1": {
+  "3001": {
     "seasons": [
       {
-        "air_date": "2008-04-10",
-        "episode_count": 4,
         "id": 1,
-        "name": "Sezon 1",
-        "overview": "Blender Vakfı'nın açık film projeleri.",
-        "season_number": 1
+        "season_number": 1,
+        "name": "Açık Film Seçkisi",
+        "episode_count": 1,
+        "cover": "/artwork/big-buck-bunny-cover.jpg"
       }
     ],
     "episodes": {
       "1": [
         {
-          "id": "101",
+          "id": "4001",
           "episode_num": 1,
           "season": 1,
           "title": "Big Buck Bunny",
-          "container_extension": "mov",
-          "stream_url": "https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov",
-          "info": {
-            "air_date": "2008-04-10",
-            "crew": "Sacha Goedegebure",
-            "overview": "Kocaman ve nazik bir tavşanın ormandaki üç haylaz hayvanla mücadelesi.",
-            "rating": "8.2",
-            "duration_secs": 596,
-            "duration": "09:56"
-          }
-        },
-        {
-          "id": "102",
-          "episode_num": 2,
-          "season": 1,
-          "title": "Sintel",
           "container_extension": "mp4",
-          "stream_url": "https://download.blender.org/durian/trailer/sintel_trailer-1080p.mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/bf1f3fb5-b119-4f9f-9930-8e20e892b898-720.mp4",
           "info": {
-            "air_date": "2010-09-27",
-            "crew": "Colin Levy",
-            "overview": "Genç bir kadının kayıp ejderha yavrusunu arayışını anlatan epik kısa film.",
-            "rating": "8.0",
-            "duration_secs": 52,
-            "duration": "00:52"
-          }
-        },
-        {
-          "id": "103",
-          "episode_num": 3,
-          "season": 1,
-          "title": "Tears of Steel",
-          "container_extension": "m3u8",
-          "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "info": {
-            "air_date": "2012-09-26",
-            "crew": "Ian Hubert",
-            "overview": "Bilim kurgu kısa filmi: dünyayı kurtarmak için zamana karşı yarışan bilim insanları.",
-            "rating": "7.5",
-            "duration_secs": 734,
-            "duration": "12:14"
-          }
-        },
-        {
-          "id": "104",
-          "episode_num": 4,
-          "season": 1,
-          "title": "Big Buck Bunny (Mobil)",
-          "container_extension": "mp4",
-          "stream_url": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "info": {
-            "air_date": "2008-04-10",
-            "crew": "Sacha Goedegebure",
-            "overview": "Big Buck Bunny'nin mobil cihazlar için optimize edilmiş 320x180 versiyonu.",
-            "rating": "8.0",
+            "movie_image": "/artwork/big-buck-bunny-cover.jpg",
+            "cover_big": "/artwork/big-buck-bunny-cover.jpg",
+            "backdrop_path": [
+              "/artwork/big-buck-bunny-backdrop.jpg"
+            ],
+            "plot": "Kocaman bir tavşanın ormandaki küçük rakipleriyle komik mücadelesi.",
             "duration_secs": 596,
-            "duration": "09:56"
+            "duration": "00:09:56",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/",
+            "license_source": "https://peach.blender.org/about/",
+            "attribution": "© 2008 Blender Foundation / www.bigbuckbunny.org",
+            "source_url": "https://video.blender.org/videos/watch/bf1f3fb5-b119-4f9f-9930-8e20e892b898"
           }
         }
       ]
     }
   },
-  "2": {
+  "3002": {
     "seasons": [
       {
-        "air_date": "2016-01-01",
-        "episode_count": 3,
         "id": 1,
-        "name": "Sezon 1",
-        "overview": "Apple HLS örnek yayın koleksiyonu.",
-        "season_number": 1
+        "season_number": 1,
+        "name": "Açık Film Seçkisi",
+        "episode_count": 3,
+        "cover": "/artwork/sintel-cover.jpg"
       }
     ],
     "episodes": {
       "1": [
         {
-          "id": "201",
+          "id": "4002",
           "episode_num": 1,
           "season": 1,
-          "title": "BipBop Advanced (FMP4)",
-          "container_extension": "m3u8",
-          "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+          "title": "Sintel",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-818.mp4",
           "info": {
-            "air_date": "2016-01-01",
-            "crew": "Apple Developer",
-            "overview": "fMP4 segmentleriyle çoklu bitrate HLS test yayını.",
-            "rating": "7.0",
-            "duration_secs": 600,
-            "duration": "10:00"
+            "movie_image": "/artwork/sintel-cover.jpg",
+            "cover_big": "/artwork/sintel-cover.jpg",
+            "backdrop_path": [
+              "/artwork/sintel-backdrop.jpg"
+            ],
+            "plot": "Genç bir gezgin, dost olduğu ejderhayı bulmak için uzun bir yolculuğa çıkar.",
+            "duration_secs": 888,
+            "duration": "00:14:48",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/",
+            "license_source": "https://durian.blender.org/sharing/",
+            "attribution": "© Blender Foundation | durian.blender.org",
+            "source_url": "https://video.blender.org/videos/watch/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40"
           }
         },
         {
-          "id": "202",
+          "id": "4006",
           "episode_num": 2,
           "season": 1,
-          "title": "BipBop Advanced (TS)",
-          "container_extension": "m3u8",
-          "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
+          "title": "Cosmos Laundromat: First Cycle",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/f507dfdc-e73e-45a4-9778-d758cbe1ce96-804.mp4",
           "info": {
-            "air_date": "2016-01-01",
-            "crew": "Apple Developer",
-            "overview": "MPEG-TS segmentleriyle klasik HLS test yayını.",
-            "rating": "7.0",
-            "duration_secs": 600,
-            "duration": "10:00"
+            "movie_image": "/artwork/cosmos-laundromat-cover.jpg",
+            "cover_big": "/artwork/cosmos-laundromat-cover.jpg",
+            "backdrop_path": [
+              "/artwork/cosmos-laundromat-backdrop.jpg"
+            ],
+            "plot": "Issız bir adadaki koyunun hayatı, gizemli bir yabancının teklifiyle değişir.",
+            "duration_secs": 730,
+            "duration": "00:12:10",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/",
+            "license_source": "https://gooseberry.blender.org/about/",
+            "attribution": "© Blender Foundation | gooseberry.blender.org",
+            "source_url": "https://video.blender.org/videos/watch/f507dfdc-e73e-45a4-9778-d758cbe1ce96"
           }
         },
         {
-          "id": "203",
+          "id": "4011",
           "episode_num": 3,
           "season": 1,
-          "title": "Historic Planet (3D)",
-          "container_extension": "m3u8",
-          "stream_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8",
+          "title": "Spring",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-804.mp4",
           "info": {
-            "air_date": "2023-10-26",
-            "crew": "Apple",
-            "overview": "Apple Vision Pro için hazırlanmış 3D belgesel örnek içeriği.",
-            "rating": "7.5",
-            "duration_secs": 300,
-            "duration": "05:00"
+            "movie_image": "/artwork/spring-cover.jpg",
+            "cover_big": "/artwork/spring-cover.jpg",
+            "backdrop_path": [
+              "/artwork/spring-backdrop.jpg"
+            ],
+            "plot": "Bir çoban kız ve köpeği, mevsimlerin döngüsünü sürdürmek için kadim ruhlarla karşılaşır.",
+            "duration_secs": 464,
+            "duration": "00:07:44",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "license_source": "https://studio.blender.org/projects/spring/pages/about/",
+            "attribution": "© Blender Foundation | cloud.blender.org/spring",
+            "source_url": "https://video.blender.org/videos/watch/3d95fb3d-c866-42c8-9db1-fe82f48ccb95"
+          }
+        }
+      ]
+    }
+  },
+  "3003": {
+    "seasons": [
+      {
+        "id": 1,
+        "season_number": 1,
+        "name": "Açık Film Seçkisi",
+        "episode_count": 3,
+        "cover": "/artwork/elephants-dream-cover.jpg"
+      }
+    ],
+    "episodes": {
+      "1": [
+        {
+          "id": "4003",
+          "episode_num": 1,
+          "season": 1,
+          "title": "Elephants Dream",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5-720.mp4",
+          "info": {
+            "movie_image": "/artwork/elephants-dream-cover.jpg",
+            "cover_big": "/artwork/elephants-dream-cover.jpg",
+            "backdrop_path": [
+              "/artwork/elephants-dream-backdrop.jpg"
+            ],
+            "plot": "İki yolcu, gerçeküstü bir makinenin içinde farklı dünyalar görür.",
+            "duration_secs": 654,
+            "duration": "00:10:54",
+            "license": "CC BY 2.5",
+            "license_url": "https://creativecommons.org/licenses/by/2.5/",
+            "license_source": "https://orange.blender.org/blog/creative-commons-license-2/",
+            "attribution": "© 2006 Blender Foundation / Netherlands Media Art Institute / www.elephantsdream.org",
+            "source_url": "https://video.blender.org/videos/watch/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5"
+          }
+        },
+        {
+          "id": "4004",
+          "episode_num": 2,
+          "season": 1,
+          "title": "Tears of Steel",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-800.mp4",
+          "info": {
+            "movie_image": "/artwork/tears-of-steel-cover.jpg",
+            "cover_big": "/artwork/tears-of-steel-cover.jpg",
+            "backdrop_path": [
+              "/artwork/tears-of-steel-backdrop.jpg"
+            ],
+            "plot": "Amsterdam’da bir ekip, insanlarla makineler arasındaki çatışmayı çözmeye çalışır.",
+            "duration_secs": 734,
+            "duration": "00:12:14",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/",
+            "license_source": "https://mango.blender.org/about/",
+            "attribution": "© Blender Foundation | www.tearsofsteel.org",
+            "source_url": "https://video.blender.org/videos/watch/8533ea43-4271-4a57-9694-e9d0b35e1aa1"
+          }
+        },
+        {
+          "id": "4013",
+          "episode_num": 3,
+          "season": 1,
+          "title": "Charge",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/01d4421b-55f7-4349-bb6c-b8aa3053ffe4-1080.mp4",
+          "info": {
+            "movie_image": "/artwork/charge-cover.jpg",
+            "cover_big": "/artwork/charge-cover.jpg",
+            "backdrop_path": [
+              "/artwork/charge-backdrop.jpg"
+            ],
+            "plot": "Enerjinin kıt olduğu bir gelecekte yaşlı bir adam, bir pil fabrikasına girer.",
+            "duration_secs": 263,
+            "duration": "00:04:23",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "license_source": "https://video.blender.org/videos/watch/04da454b-9893-4184-98f3-248d00625efe",
+            "attribution": "© Blender Foundation | studio.blender.org/charge",
+            "source_url": "https://video.blender.org/videos/watch/04da454b-9893-4184-98f3-248d00625efe"
+          }
+        }
+      ]
+    }
+  },
+  "3004": {
+    "seasons": [
+      {
+        "id": 1,
+        "season_number": 1,
+        "name": "Açık Film Seçkisi",
+        "episode_count": 3,
+        "cover": "/artwork/glass-half-cover.jpg"
+      }
+    ],
+    "episodes": {
+      "1": [
+        {
+          "id": "4007",
+          "episode_num": 1,
+          "season": 1,
+          "title": "Glass Half",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/64222c8a-c4c7-4b3b-9850-7fb2078edcf6-1080.mp4",
+          "info": {
+            "movie_image": "/artwork/glass-half-cover.jpg",
+            "cover_big": "/artwork/glass-half-cover.jpg",
+            "backdrop_path": [
+              "/artwork/glass-half-backdrop.jpg"
+            ],
+            "plot": "İki sanat meraklısı bir galeride eserler üzerine hararetle tartışır.",
+            "duration_secs": 193,
+            "duration": "00:03:13",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/",
+            "license_source": "https://studio.blender.org/projects/glass-half/pages/licensing/",
+            "attribution": "© Blender Foundation | studio.blender.org",
+            "source_url": "https://video.blender.org/videos/watch/64222c8a-c4c7-4b3b-9850-7fb2078edcf6"
+          }
+        },
+        {
+          "id": "4012",
+          "episode_num": 2,
+          "season": 1,
+          "title": "Coffee Run",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-804.mp4",
+          "info": {
+            "movie_image": "/artwork/coffee-run-cover.jpg",
+            "cover_big": "/artwork/coffee-run-cover.jpg",
+            "backdrop_path": [
+              "/artwork/coffee-run-backdrop.jpg"
+            ],
+            "plot": "Kahveyle başlayan bir koşu, bir ilişkinin anıları arasında yolculuğa dönüşür.",
+            "duration_secs": 184,
+            "duration": "00:03:04",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "license_source": "https://studio.blender.org/projects/coffee-run/pages/licensing/",
+            "attribution": "© Blender Foundation | studio.blender.org",
+            "source_url": "https://video.blender.org/videos/watch/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1"
+          }
+        },
+        {
+          "id": "4014",
+          "episode_num": 3,
+          "season": 1,
+          "title": "Wing It!",
+          "container_extension": "mp4",
+          "stream_url": "https://video.blender.org/object-storage/web_videos/9178581e-4d24-4a67-adf2-a30eadfaf32f-1080.mp4",
+          "info": {
+            "movie_image": "/artwork/wing-it-cover.jpg",
+            "cover_big": "/artwork/wing-it-cover.jpg",
+            "backdrop_path": [
+              "/artwork/wing-it-backdrop.jpg"
+            ],
+            "plot": "Bir mühendis ve hevesli bir pilot, kontrolden çıkan bir uzay mekiğinde buluşur.",
+            "duration_secs": 238,
+            "duration": "00:03:58",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "license_source": "https://studio.blender.org/projects/wing-it/pages/licensing/",
+            "attribution": "© Blender Foundation | studio.blender.org",
+            "source_url": "https://video.blender.org/videos/watch/bd0084a5-1d26-4816-ab5e-1bad9e2fb990"
           }
         }
       ]

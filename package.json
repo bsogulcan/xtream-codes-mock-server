@@ -1,6 +1,11 @@
 {
   "name": "xtream-mock-api",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "generate:playlist": "node scripts/generate_catalog.js && node scripts/generate_m3u.js",
+    "test": "node --test"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5"

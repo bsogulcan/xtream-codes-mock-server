@@ -1,4 +1,22 @@
 [
-  {"category_id": "1", "category_name": "Açık Kaynak Animasyon", "parent_id": 0},
-  {"category_id": "2", "category_name": "Test Yayın Koleksiyonu", "parent_id": 0}
+  {
+    "category_id": "1",
+    "category_name": "Doğa ve Komedi",
+    "parent_id": 0
+  },
+  {
+    "category_id": "2",
+    "category_name": "Fantastik Yolculuklar",
+    "parent_id": 0
+  },
+  {
+    "category_id": "3",
+    "category_name": "Bilim Kurgu",
+    "parent_id": 0
+  },
+  {
+    "category_id": "4",
+    "category_name": "Kısa Animasyonlar",
+    "parent_id": 0
+  }
 ]

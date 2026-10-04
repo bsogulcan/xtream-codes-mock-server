@@ -3,6 +3,11 @@ const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 const app = express();
+const port = process.env.PORT || 8080;
+const publicUrl = new URL(
+  process.env.PUBLIC_BASE_URL ||
+  (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : `http://localhost:${port}`)
+);
 
 app.use(cors());
 app.use(express.json());
@@ -11,55 +16,21 @@ function loadJsonData(filename) {
   try {
     const filePath = path.join(__dirname, 'data', filename);
     const data = fs.readFileSync(filePath, 'utf8');
-    return JSON.parse(data);
+    return absoluteArtwork(JSON.parse(data));
   } catch (error) {
     console.error(`Error loading ${filename}:`, error);
     return [];
   }
 }
 
-function buildM3U() {
-  const liveCategories = loadJsonData('live_categories.json');
-  const liveStreams = loadJsonData('live_streams.json');
-  const vodCategories = loadJsonData('vod_categories.json');
-  const vodStreams = loadJsonData('vod_streams.json');
-  const seriesCategories = loadJsonData('series_categories.json');
-  const series = loadJsonData('series.json');
-  const seriesInfo = loadJsonData('series_info.json');
+const buildPlaylist = require('./scripts/build_m3u');
+app.use('/artwork', express.static(path.join(__dirname, 'public/artwork')));
 
-  const catName = (cats, id) => {
-    const c = cats.find((x) => String(x.category_id) === String(id));
-    return c ? c.category_name : 'Diğer';
-  };
-
-  const lines = ['#EXTM3U'];
-
-  for (const s of liveStreams) {
-    const group = `Canlı / ${catName(liveCategories, s.category_id)}`;
-    lines.push(`#EXTINF:-1 tvg-id="${s.stream_id}" tvg-name="${s.name}" tvg-logo="${s.stream_icon}" group-title="${group}",${s.name}`);
-    lines.push(s.stream_url);
-  }
-
-  for (const v of vodStreams) {
-    const group = `VOD / ${catName(vodCategories, v.category_id)}`;
-    lines.push(`#EXTINF:-1 tvg-id="vod-${v.stream_id}" tvg-name="${v.name}" tvg-logo="${v.stream_icon}" group-title="${group}",${v.name}`);
-    lines.push(v.stream_url);
-  }
-
-  for (const sh of series) {
-    const info = seriesInfo[String(sh.series_id)];
-    if (!info || !info.episodes) continue;
-    const showGroup = `Dizi / ${catName(seriesCategories, sh.category_id)} / ${sh.name}`;
-    for (const seasonNum of Object.keys(info.episodes)) {
-      for (const ep of info.episodes[seasonNum]) {
-        const title = `${sh.name} S${String(seasonNum).padStart(2, '0')}E${String(ep.episode_num).padStart(2, '0')} - ${ep.title}`;
-        lines.push(`#EXTINF:-1 tvg-id="series-${ep.id}" tvg-name="${title}" tvg-logo="${sh.cover}" group-title="${showGroup}",${title}`);
-        lines.push(ep.stream_url);
-      }
-    }
-  }
-
-  return lines.join('\n') + '\n';
+function absoluteArtwork(value) {
+  if (typeof value === 'string' && value.startsWith('/artwork/')) return new URL(value, publicUrl).href;
+  if (Array.isArray(value)) return value.map(absoluteArtwork);
+  if (value && typeof value === 'object') return Object.fromEntries(Object.entries(value).map(([k, v]) => [k, absoluteArtwork(v)]));
+  return value;
 }
 
 app.get('/get.php', (req, res) => {
@@ -69,7 +40,7 @@ app.get('/get.php', (req, res) => {
   }
   res.set('Content-Type', 'application/x-mpegurl; charset=utf-8');
   res.set('Content-Disposition', 'attachment; filename="playlist.m3u"');
-  res.send(buildM3U());
+  res.send(buildPlaylist(publicUrl));
 });
 
 app.get('/player_api.php', (req, res) => {
@@ -110,6 +81,11 @@ app.get('/player_api.php', (req, res) => {
         // Tüm VOD stream'leri döndür
         res.json(vodStreams);
       }
+
+    } else if (action === 'get_vod_info') {
+      const movie = loadJsonData('vod_streams.json').find(v => String(v.stream_id) === String(req.query.vod_id));
+      if (!movie) return res.status(404).json({ error: 'Movie not found' });
+      res.json({ info: { ...movie, movie_image: movie.stream_icon, cover_big: movie.cover }, movie_data: movie });
 
     } else if (action === 'get_series_categories') {
       res.json(loadJsonData('series_categories.json'));
@@ -162,10 +138,10 @@ app.get('/player_api.php', (req, res) => {
           ]
         },
         "server_info": {
-          "url": "localhost",
-          "port": "8080",
-          "https_port": "0",
-          "server_protocol": "http",
+          "url": publicUrl.hostname,
+          "port": publicUrl.protocol === 'http:' ? (publicUrl.port || '80') : '80',
+          "https_port": publicUrl.protocol === 'https:' ? (publicUrl.port || '443') : '0',
+          "server_protocol": publicUrl.protocol.slice(0, -1),
           "rtmp_port": "1935",
           "timezone": "Europe/Istanbul",
           "timestamp_now": Math.floor(Date.now() / 1000),
@@ -179,7 +155,7 @@ app.get('/player_api.php', (req, res) => {
 });
 
 // Live stream endpoint
-app.get('/live/:username/:password/:stream_id.m3u8', (req, res) => {
+app.get('/live/:username/:password/:stream_id.:extension', (req, res) => {
   const { username, password, stream_id } = req.params;
   
   if (username === 'test_user' && password === 'test_pass') {
@@ -197,7 +173,7 @@ app.get('/live/:username/:password/:stream_id.m3u8', (req, res) => {
 });
 
 // VOD/Movie endpoint
-app.get('/movie/:username/:password/:stream_id.mp4', (req, res) => {
+app.get('/movie/:username/:password/:stream_id.:extension', (req, res) => {
   const { username, password, stream_id } = req.params;
   
   if (username === 'test_user' && password === 'test_pass') {
@@ -215,7 +191,7 @@ app.get('/movie/:username/:password/:stream_id.mp4', (req, res) => {
 });
 
 // Series episode endpoint
-app.get('/series/:username/:password/:stream_id.mp4', (req, res) => {
+app.get('/series/:username/:password/:stream_id.:extension', (req, res) => {
   const { username, password, stream_id } = req.params;
   
   if (username === 'test_user' && password === 'test_pass') {
@@ -300,7 +276,11 @@ app.get('/:username/:password/:stream_id', (req, res) => {
   }
 });
 
-app.listen(8080, () => {
-  console.log('Mock Xtream API running on port 8080');
-  console.log('Test credentials: username=test_user, password=test_pass');
-});
+if (require.main === module) {
+  app.listen(port, () => {
+    console.log(`Mock Xtream API running on port ${port}`);
+    console.log('Test credentials: username=test_user, password=test_pass');
+  });
+}
+
+module.exports = app;

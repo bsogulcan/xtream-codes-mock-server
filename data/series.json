@@ -1,42 +1,64 @@
 [
   {
     "num": 1,
-    "name": "Blender Açık Film Koleksiyonu",
-    "series_id": 1,
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/480px-Big_buck_bunny_poster_big.jpg",
-    "plot": "Blender Vakfı tarafından üretilen Creative Commons lisanslı kısa animasyon filmlerin derlemesi.",
-    "cast": "Blender Foundation",
-    "director": "Various",
-    "genre": "Animasyon",
-    "releaseDate": "2008-04-10",
-    "last_modified": "1700000000",
-    "rating": "8",
-    "rating_5based": 4,
+    "series_id": 3001,
+    "name": "Doğa ve Komedi Koleksiyonu",
+    "category_id": "1",
+    "cover": "/artwork/big-buck-bunny-cover.jpg",
     "backdrop_path": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg"
+      "/artwork/big-buck-bunny-backdrop.jpg"
     ],
-    "youtube_trailer": "YE7VzlLtp-4",
-    "episode_run_time": "10",
-    "category_id": "1"
+    "genre": "Doğa ve Komedi",
+    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
+    "cast": "Blender Foundation",
+    "episode_run_time": "10"
   },
   {
     "num": 2,
-    "name": "Apple BipBop Test Yayınları",
-    "series_id": 2,
-    "cover": "https://dummyimage.com/480x720/0a84ff/ffffff.png&text=BipBop",
-    "plot": "Apple HLS protokolü için sağlanan örnek test yayınları. Geliştiriciler için referans içerikler.",
-    "cast": "Apple Inc.",
-    "director": "Apple Developer",
-    "genre": "Test / Demo",
-    "releaseDate": "2016-01-01",
-    "last_modified": "1700000000",
-    "rating": "7",
-    "rating_5based": 3.5,
+    "series_id": 3002,
+    "name": "Fantastik Yolculuklar Koleksiyonu",
+    "category_id": "2",
+    "cover": "/artwork/sintel-cover.jpg",
     "backdrop_path": [
-      "https://dummyimage.com/1280x720/0a84ff/ffffff.png&text=Apple+BipBop"
+      "/artwork/sintel-backdrop.jpg",
+      "/artwork/cosmos-laundromat-backdrop.jpg",
+      "/artwork/spring-backdrop.jpg"
     ],
-    "youtube_trailer": "",
-    "episode_run_time": "10",
-    "category_id": "2"
+    "genre": "Fantastik Yolculuklar",
+    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
+    "cast": "Blender Foundation",
+    "episode_run_time": "12"
+  },
+  {
+    "num": 3,
+    "series_id": 3003,
+    "name": "Bilim Kurgu Koleksiyonu",
+    "category_id": "3",
+    "cover": "/artwork/elephants-dream-cover.jpg",
+    "backdrop_path": [
+      "/artwork/elephants-dream-backdrop.jpg",
+      "/artwork/tears-of-steel-backdrop.jpg",
+      "/artwork/charge-backdrop.jpg"
+    ],
+    "genre": "Bilim Kurgu",
+    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
+    "cast": "Blender Foundation",
+    "episode_run_time": "9"
+  },
+  {
+    "num": 4,
+    "series_id": 3004,
+    "name": "Kısa Animasyonlar Koleksiyonu",
+    "category_id": "4",
+    "cover": "/artwork/glass-half-cover.jpg",
+    "backdrop_path": [
+      "/artwork/glass-half-backdrop.jpg",
+      "/artwork/coffee-run-backdrop.jpg",
+      "/artwork/wing-it-backdrop.jpg"
+    ],
+    "genre": "Kısa Animasyonlar",
+    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
+    "cast": "Blender Foundation",
+    "episode_run_time": "3"
   }
 ]
