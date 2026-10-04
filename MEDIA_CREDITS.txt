@@ -1,101 +1,334 @@
-SCREENSHOT MEDIA CREDITS / EKRAN GÖRÜNTÜSÜ MEDYA ATIFLARI
+OPEN MEDIA CREDITS / EKRAN GORUNTUSU MEDYA ATIFLARI
 
-Bu katalog lisanssız değildir: Creative Commons Attribution (CC BY) içerir.
-Ekran görüntülerini paylaşırken kullanılan her film için aşağıdaki atfı ve lisans bağlantısını görünür şekilde görsel açıklamasına veya beraberindeki kredilere ekleyin.
-Videolar resmi kaynaktan tam olarak oynatılır; kapanış jeneriklerini koruyun.
-Kapaklar video karesinden JPEG olarak çıkarılmış ve 2:3 oranında merkezden kırpılmıştır. Arka planlar yeniden boyutlandırılmış video kareleridir.
-Logo ve markalar CC lisansının kapsamına dahil değildir. Bu katalog ayrı kanal/film logoları kullanmaz.
-Demo kanallar sonlu filmlerdir; gerçek canlı yayın değildir. Koleksiyonlar aynı filmleri bölüm arayüzünde sunar.
-Doğrulama: 2026-10-04. Lisans dayanağı her kayıtta belirtilmiştir.
-
-
+This catalog is licensed, not attribution-free. All entries use a specified CC BY license.
+When publishing screenshots, show the full applicable credit, source and license link clearly alongside the image. Note the frame extraction and cropping.
+ESO and ESA/Hubble require full, visible credits. Keep complete video end credits. Do not reuse music separately or imply endorsement. Avoid identifiable people in promotional screenshots.
+Logos and trademarks are excluded. Bundled artwork uses extracted frames, not standalone broadcaster logos.
+Live-screen entries are finite on-demand demos, not real live TV. Collections reuse the same videos in the series UI.
 
 Big Buck Bunny
 © 2008 Blender Foundation / www.bigbuckbunny.org — CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 Film: https://video.blender.org/videos/watch/bf1f3fb5-b119-4f9f-9930-8e20e892b898
-Lisans kaynağı: https://peach.blender.org/about/
-Lisans dayanağı: project-specific
-Görseller: big-buck-bunny-cover.jpg / big-buck-bunny-backdrop.jpg
-Kaynak kare: 45. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://peach.blender.org/about/
+License basis: project-specific
+Artwork: big-buck-bunny-cover.jpg / big-buck-bunny-backdrop.jpg
+Frame: 45s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Sintel
 © Blender Foundation | durian.blender.org — CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 Film: https://video.blender.org/videos/watch/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40
-Lisans kaynağı: https://durian.blender.org/sharing/
-Lisans dayanağı: project-specific
-Görseller: sintel-cover.jpg / sintel-backdrop.jpg
-Kaynak kare: 180. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://durian.blender.org/sharing/
+License basis: project-specific
+Artwork: sintel-cover.jpg / sintel-backdrop.jpg
+Frame: 180s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Elephants Dream
 © 2006 Blender Foundation / Netherlands Media Art Institute / www.elephantsdream.org — CC BY 2.5
 https://creativecommons.org/licenses/by/2.5/
 Film: https://video.blender.org/videos/watch/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5
-Lisans kaynağı: https://orange.blender.org/blog/creative-commons-license-2/
-Lisans dayanağı: project-specific
-Görseller: elephants-dream-cover.jpg / elephants-dream-backdrop.jpg
-Kaynak kare: 90. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://orange.blender.org/blog/creative-commons-license-2/
+License basis: project-specific
+Artwork: elephants-dream-cover.jpg / elephants-dream-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Tears of Steel
 © Blender Foundation | www.tearsofsteel.org — CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 Film: https://video.blender.org/videos/watch/8533ea43-4271-4a57-9694-e9d0b35e1aa1
-Lisans kaynağı: https://mango.blender.org/about/
-Lisans dayanağı: project-specific
-Görseller: tears-of-steel-cover.jpg / tears-of-steel-backdrop.jpg
-Kaynak kare: 180. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://mango.blender.org/about/
+License basis: project-specific
+Artwork: tears-of-steel-cover.jpg / tears-of-steel-backdrop.jpg
+Frame: 180s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Cosmos Laundromat: First Cycle
 © Blender Foundation | gooseberry.blender.org — CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 Film: https://video.blender.org/videos/watch/f507dfdc-e73e-45a4-9778-d758cbe1ce96
-Lisans kaynağı: https://gooseberry.blender.org/about/
-Lisans dayanağı: project-specific
-Görseller: cosmos-laundromat-cover.jpg / cosmos-laundromat-backdrop.jpg
-Kaynak kare: 210. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://gooseberry.blender.org/about/
+License basis: project-specific
+Artwork: cosmos-laundromat-cover.jpg / cosmos-laundromat-backdrop.jpg
+Frame: 210s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Glass Half
 © Blender Foundation | studio.blender.org — CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 Film: https://video.blender.org/videos/watch/64222c8a-c4c7-4b3b-9850-7fb2078edcf6
-Lisans kaynağı: https://studio.blender.org/projects/glass-half/pages/licensing/
-Lisans dayanağı: project-specific
-Görseller: glass-half-cover.jpg / glass-half-backdrop.jpg
-Kaynak kare: 45. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://studio.blender.org/projects/glass-half/pages/licensing/
+License basis: project-specific
+Artwork: glass-half-cover.jpg / glass-half-backdrop.jpg
+Frame: 45s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Spring
 © Blender Foundation | cloud.blender.org/spring — CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
 Film: https://video.blender.org/videos/watch/3d95fb3d-c866-42c8-9db1-fe82f48ccb95
-Lisans kaynağı: https://studio.blender.org/projects/spring/pages/about/
-Lisans dayanağı: project-specific
-Görseller: spring-cover.jpg / spring-backdrop.jpg
-Kaynak kare: 100. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://studio.blender.org/projects/spring/pages/about/
+License basis: project-specific
+Artwork: spring-cover.jpg / spring-backdrop.jpg
+Frame: 100s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Coffee Run
 © Blender Foundation | studio.blender.org — CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
 Film: https://video.blender.org/videos/watch/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1
-Lisans kaynağı: https://studio.blender.org/projects/coffee-run/pages/licensing/
-Lisans dayanağı: project-specific
-Görseller: coffee-run-cover.jpg / coffee-run-backdrop.jpg
-Kaynak kare: 40. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://studio.blender.org/projects/coffee-run/pages/licensing/
+License basis: project-specific
+Artwork: coffee-run-cover.jpg / coffee-run-backdrop.jpg
+Frame: 40s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Charge
 © Blender Foundation | studio.blender.org/charge — CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
 Film: https://video.blender.org/videos/watch/04da454b-9893-4184-98f3-248d00625efe
-Lisans kaynağı: https://video.blender.org/videos/watch/04da454b-9893-4184-98f3-248d00625efe
-Lisans dayanağı: CC BY 4.0 explicitly displayed in the closing license card of the official film
-Görseller: charge-cover.jpg / charge-backdrop.jpg
-Kaynak kare: 105. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://video.blender.org/videos/watch/04da454b-9893-4184-98f3-248d00625efe
+License basis: CC BY 4.0 explicitly displayed in the closing license card of the official film
+Artwork: charge-cover.jpg / charge-backdrop.jpg
+Frame: 105s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
 
 Wing It!
 © Blender Foundation | studio.blender.org — CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
 Film: https://video.blender.org/videos/watch/bd0084a5-1d26-4816-ab5e-1bad9e2fb990
-Lisans kaynağı: https://studio.blender.org/projects/wing-it/pages/licensing/
-Lisans dayanağı: project-specific
-Görseller: wing-it-cover.jpg / wing-it-backdrop.jpg
-Kaynak kare: 15. saniye; JPEG çıkarımı, yeniden boyutlandırma ve kapakta merkezden kırpma.
+License source: https://studio.blender.org/projects/wing-it/pages/licensing/
+License basis: project-specific
+Artwork: wing-it-cover.jpg / wing-it-backdrop.jpg
+Frame: 15s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+
+Sprite Fright
+© Blender Foundation | studio.blender.org — CC BY 1.0
+https://creativecommons.org/licenses/by/1.0/
+Film: https://video.blender.org/videos/watch/a69d68a5-a0e0-4a80-9d66-49f093c97aaf
+License source: https://studio.blender.org/projects/sprite-fright/pages/about/
+License basis: project-specific
+Artwork: sprite-fright-cover.jpg / sprite-fright-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+
+Singularity
+© Blender Foundation | studio.blender.org — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://video.blender.org/videos/watch/1ba07bbb-1456-4293-99a6-833fa450eda0
+License source: https://studio.blender.org/projects/singularity/pages/licensing/
+License basis: project-specific
+Artwork: singularity-cover.jpg / singularity-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+
+The Making of Sintel
+© Blender Foundation | durian.blender.org — CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Film: https://video.blender.org/videos/watch/6a12c7a4-6c0f-46db-a5fd-e212a83661f8
+License source: https://durian.blender.org/sharing/
+License basis: project-specific
+Artwork: making-of-sintel-cover.jpg / making-of-sintel-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+
+ESOcast 41: Going South — Special 50th anniversary episode #1
+ESO
+  Directed by : Lars Lindberg Christensen   Art Direction, Production Design : Martin Kornmesser   Producer : Herbert Zodet   Written by : Govert Schilling   3D animations and graphics : Martin Kornmesser & Luis Calçada   Editing : Martin Kornmesser   Cinematography : Herbert Zodet & Peter Rixner   Sound engineer : Cristian Larrea   Narration Mastering : Peter Rixner   Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)   Narration : Sara Mendes da Costa   Soundtrack & Sound Effects : movetwo - Axel Kornmesser & Markus Löffler   Footage and photos : ESO, Stéphane Guisard ( www.eso.org/~sguisard ), Christoph Malin ( christophmalin.com ), Babak Tafreshi/TWAN, A. Santerne, ESO Historical Picture Archive: J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder, Mineworks, Daniel Crouch/Rare Books ( crouchrarebooks.com ), Getty Images, Royal Astronomical Society/Science Photo Library, Jay M. Pasachoff, Chris de Coning,/South African Library/Warner-Madear, Africana Museum/Warner, Leiden University, G. Brammer and Nick Risinger ( skysurvey.org ).   Technical support : Lars Holm Nielsen and Raquel Yumi Shida   DVD Authoring : Andre Roquette   Proof reading : Anne Rhodes   Executive producer : Lars Lindberg Christensen
+
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast41a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast41a-cover.jpg / esocast41a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+ESOcast 42: Looking Up — Special 50th anniversary episode #2
+Directed by : Lars Lindberg Christensen  Art Direction, Production Design : Martin Kornmesser  Producer : Herbert Zodet  Written by : Govert Schilling  3D animations and graphics : Martin Kornmesser & Luis Calçada  Editing : Martin Kornmesser  Cinematography : Herbert Zodet & Peter Rixner  Sound engineer : Cristian Larrea  Narration Mastering : Peter Rixner  Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)  Narration : Sara Mendes da Costa  Soundtrack & Sound Effects :  movetwo  — Axel Kornmesser & Markus Löffler  Footage and photos : ESO, Stéphane Guisard ( www.eso.org/~sguisard ), Christoph Malin ( christophmalin.com ), Babak Tafreshi/TWAN, A. Santerne, Martin Kornmesser, ESO Historical Picture Archive: J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder, Mineworks, Daniel Crouch/Rare Books ( www.crouchrarebooks.com ), Getty Images, Royal Astronomical Society/Science Photo Library, Jay M. Pasachoff, Chris de Coning,/South African Library/Warner-Madear, Africana Museum/Warner, Leiden University, G. Brammer and Nick Risinger ( skysurvey.org )  Technical support : Lars Holm Nielsen and Raquel Yumi Shida  DVD Authoring : Andre Roquette  Proof reading : Anne Rhodes  Executive producer : Lars Lindberg Christensen
+
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast42a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast42a-cover.jpg / esocast42a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+ESOcast 43: Seeing Sharp — Special 50th anniversary episode #3
+ESO
+  Directed by : Lars Lindberg Christensen  Art Direction, Production Design : Martin Kornmesser  Producer : Herbert Zodet  Written by : Govert Schilling  3D animations and graphics : Martin Kornmesser & Luis Calçada  Editing : Martin Kornmesser  Cinematography : Herbert Zodet & Peter Rixner  Sound engineer : Cristian Larrea  Narration Mastering : Peter Rixner  Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)  Narration : Sara Mendes da Costa  Soundtrack & Sound Effects :  movetwo  — Axel Kornmesser & Markus Löffler  Proof reading : Anne Rhodes  Executive producer : Lars Lindberg Christensen  Footage and photos : ESO, Stéphane Guisard ( eso.org/~sguisard ), Christoph Malin ( christophmalin.com ), Babak Tafreshi/TWAN, A. Santerne, Martin Kornmesser, J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder, Mineworks, Daniel Crouch/Rare Books ( crouchrarebooks.com ), Getty Images, Royal Astronomical Society/Science Photo Library, Jay M. Pasachoff, Chris de Coning/South African Library/Warner-Madear, Africana Museum/Warner, Leiden University, G. Brammer, Nick Risinger ( skysurvey.org ), Mauricio Anton/Science Library, José Francisco Salgado ( josefrancisco.org ), NASA/Spitzer Science Center/R. Hurt, VISTA/J. Emerson/Digitized Sky Survey 2, MPE/S. Gillessen/M. Schartmann, PIONIER/IPAG.
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast43a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast43a-cover.jpg / esocast43a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+ESOcast 44: Changing Views — Special 50th anniversary episode #4
+An ESO production   Directed by : Lars Lindberg Christensen  Art Direction, Production Design : Martin Kornmesser  Producer : Herbert Zodet  Written by : Govert Schilling  3D animations and graphics : Martin Kornmesser & Luis Calçada  Editing : Martin Kornmesser  Cinematography : Herbert Zodet & Peter Rixner  Sound engineer : Cristian Larrea  Audio Mastering : Peter Rixner  Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)  Narration : Sara Mendes da Costa  Soundtrack & Sound Effects :  movetwo  — Axel Kornmesser & Markus Löffler & zero-project ( zero-project.gr )  Proof reading : Anne Rhodes  Technical support : Lars Holm Nielsen, Raquel Yumi Shida & Mathias Andre  DVD Authoring : Andre Roquette  Executive producer : Lars Lindberg Christensen   Footage and photos : ESO Christoph Malin ( christophmalin.com ) Babak Tafreshi/TWAN Stéphane Guisard ( eso.org/~sguisard ) José Francisco Salgado ( josefrancisco.org ) Alexandre Santerne Nick Risinger ( skysurvey.org ) Martin Kornmesser Herbert Zodet J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder Mineworks Daniel Crouch/Rare Books ( crouchrarebooks.com ) Getty Images Royal Astronomical Society/Science Photo Library Jay M. Pasachoff Chris de Coning/South African Library/Warner-Madear Africana Museum/Warner Leiden University G. Brammer Mauricio Anton/Science Library NASA/Spitzer Science Center/R. Hurt VISTA/J. Emerson Digitized Sky Survey 2 MPE/S. Gillessen/M. Schartmann PIONIER/IPAG Rainer Lenzen/MPIA Heidelberg West-Eastern Divan Orchestra in Berlin by KolBerlin Davide De Martin Cambridge Astronomical Survey Unit IDA/Danish 1.5 m/R. Gendler and C. Thöne Mario Nonino, Piero Rosati and the ESO GOODS Team ALMA (ESO/NAOJ/NRAO) The NASA/ESA Hubble Space Telescope Matthias Maercker Igor Chekalin Hans-Hermann  Heyer Edmund Janssen Luis Calçada Scott Kardel Tom Jarrett, Kevin Govender Sergey Stepanenko ESA NASA IAU/IYA2009 T. Preibisch R. Fosbury (ST-ECF) INAF-VST/OmegaCAM OmegaCen/Astro-WISE/Kapteyn Institute A. Fujii J.-B. Le Bouquin et al. D. Coe (STScI)/J. Merten (Heidelberg/Bologna) Gemini Observatory/NRC/AURA/Christian Marois et al. M. Janson Jean-Luc Beuzit IAC (SMM) and ESPRESSO consortium T.M. Brown (STScI) UltraVISTA team, TERAPIX/CNRS/INSU/CASU World Wide Telescope
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast44a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast44a-cover.jpg / esocast44a-backdrop.jpg
+Frame: 180s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+ESOcast 45: Reaching Out — Special 50th anniversary episode #5
+ESO
+  Directed by : Lars Lindberg Christensen  Art Direction, Production Design : Martin Kornmesser  Producer : Herbert Zodet  Written by : Govert Schilling  3D animations and graphics : Martin Kornmesser & Luis Calçada  Editing : Martin Kornmesser  Cinematography : Herbert Zodet & Peter Rixner  Sound engineer : Cristian Larrea  Narration Mastering : Peter Rixner  Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)  Narration : Sara Mendes da Costa S oundtrack & Sound Effects : movetwo — Axel Kornmesser & Markus Löffler, zero-project ( zero-project.gr ).  Proof reading : Anne Rhodes  Executive producer : Lars Lindberg Christensen  Footage and photos : ESO, Stéphane Guisard ( eso.org/~sguisard ), Christoph Malin ( christophmalin.com ), Babak Tafreshi/TWAN, A. Santerne, Martin Kornmesser, J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder, Mineworks, Daniel Crouch/Rare Books ( crouchrarebooks.com ), Getty Images, Royal Astronomical Society/Science Photo Library, Jay M. Pasachoff, Chris de Coning/South African Library/Warner-Madear, Africana Museum/Warner, Leiden University, G. Brammer, Nick Risinger ( skysurvey.org ), Mauricio Anton/Science Library, José Francisco Salgado ( josefrancisco.org ), NASA/Spitzer Science Center/R. Hurt, VISTA/J. Emerson/Digitized Sky Survey 2, MPE/S. Gillessen/M. Schartmann, PIONIER/IPAG, Rainer Lenzen/MPIA Heidelberg, West-Eastern Divan Orchestra in Berlin by  KolBerlin , Davide De Martin, Cambridge Astronomical Survey Unit, IDA/Danish 1.5 m/R. Gendler and C. Thöne, Mario Nonino, Piero Rosati and the ESO GOODS Team, ALMA (ESO/NAOJ/NRAO), the NASA/ESA Hubble Space Telescope, Matthias Maercker, Igor Chekalin, H.H. Heyer. E.Janssen, L. Calçada, Kevin Govender, Sergey Stepanenko, ESA, IAU/IYA2009.
+
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast45a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast45a-cover.jpg / esocast45a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+ESOcast 46: Catching Light — Special 50th anniversary episode #6
+An ESO production   Directed by : Lars Lindberg Christensen  Art Direction, Production Design : Martin Kornmesser  Producer : Herbert Zodet  Written by : Govert Schilling  3D animations and graphics : Martin Kornmesser & Luis Calçada  Editing : Martin Kornmesser  Cinematography : Herbert Zodet & Peter Rixner  Sound engineer : Cristian Larrea  Audio Mastering : Peter Rixner  Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)  Narration : Sara Mendes da Costa  Soundtrack & Sound Effects :  movetwo  — Axel Kornmesser & Markus Löffler & zero-project ( zero-project.gr )  Proof reading : Anne Rhodes  Technical support : Lars Holm Nielsen, Raquel Yumi Shida & Mathias Andre  DVD Authoring : Andre Roquette  Executive producer : Lars Lindberg Christensen   Footage and photos : ESO Christoph Malin ( christophmalin.com ) Babak Tafreshi/TWAN Stéphane Guisard ( eso.org/~sguisard ) José Francisco Salgado ( josefrancisco.org ) Alexandre Santerne Nick Risinger ( skysurvey.org ) Martin Kornmesser Herbert Zodet J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder Mineworks Daniel Crouch/Rare Books ( crouchrarebooks.com ) Getty Images Royal Astronomical Society/Science Photo Library Jay M. Pasachoff Chris de Coning/South African Library/Warner-Madear Africana Museum/Warner Leiden University G. Brammer Mauricio Anton/Science Library NASA/Spitzer Science Center/R. Hurt VISTA/J. Emerson Digitized Sky Survey 2 MPE/S. Gillessen/M. Schartmann PIONIER/IPAG Rainer Lenzen/MPIA Heidelberg West-Eastern Divan Orchestra in Berlin by KolBerlin Davide De Martin Cambridge Astronomical Survey Unit IDA/Danish 1.5 m/R. Gendler and C. Thöne Mario Nonino, Piero Rosati and the ESO GOODS Team ALMA (ESO/NAOJ/NRAO) The NASA/ESA Hubble Space Telescope Matthias Maercker Igor Chekalin Hans-Hermann  Heyer Edmund Janssen Luis Calçada Scott Kardel Tom Jarrett, Kevin Govender Sergey Stepanenko ESA NASA IAU/IYA2009 T. Preibisch R. Fosbury (ST-ECF) INAF-VST/OmegaCAM OmegaCen/Astro-WISE/Kapteyn Institute A. Fujii J.-B. Le Bouquin et al. D. Coe (STScI)/J. Merten (Heidelberg/Bologna) Gemini Observatory/NRC/AURA/Christian Marois et al. M. Janson Jean-Luc Beuzit IAC (SMM) and ESPRESSO consortium T.M. Brown (STScI) UltraVISTA team, TERAPIX/CNRS/INSU/CASU World Wide Telescope
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast46a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast46a-cover.jpg / esocast46a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+ESOcast 47: Finding Life — Special 50th anniversary episode #7
+An ESO production   Directed by : Lars Lindberg Christensen  Art Direction, Production Design : Martin Kornmesser  Producer : Herbert Zodet  Written by : Govert Schilling  3D animations and graphics : Martin Kornmesser & Luis Calçada  Editing : Martin Kornmesser  Cinematography : Herbert Zodet & Peter Rixner  Sound engineer : Cristian Larrea  Audio Mastering : Peter Rixner  Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)  Narration : Sara Mendes da Costa  Soundtrack & Sound Effects :  movetwo  — Axel Kornmesser & Markus Löffler & zero-project ( zero-project.gr )  Proof reading : Anne Rhodes  Technical support : Lars Holm Nielsen, Raquel Yumi Shida & Mathias Andre  DVD Authoring : Andre Roquette  Executive producer : Lars Lindberg Christensen   Footage and photos : ESO Christoph Malin ( christophmalin.com ) Babak Tafreshi/TWAN Stéphane Guisard ( eso.org/~sguisard ) José Francisco Salgado ( josefrancisco.org ) Alexandre Santerne Nick Risinger ( skysurvey.org ) Martin Kornmesser Herbert Zodet J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder Mineworks Daniel Crouch/Rare Books ( crouchrarebooks.com ) Getty Images Royal Astronomical Society/Science Photo Library Jay M. Pasachoff Chris de Coning/South African Library/Warner-Madear Africana Museum/Warner Leiden University G. Brammer Mauricio Anton/Science Library NASA/Spitzer Science Center/R. Hurt VISTA/J. Emerson Digitized Sky Survey 2 MPE/S. Gillessen/M. Schartmann PIONIER/IPAG Rainer Lenzen/MPIA Heidelberg West-Eastern Divan Orchestra in Berlin by KolBerlin Davide De Martin Cambridge Astronomical Survey Unit IDA/Danish 1.5 m/R. Gendler and C. Thöne Mario Nonino, Piero Rosati and the ESO GOODS Team ALMA (ESO/NAOJ/NRAO) The NASA/ESA Hubble Space Telescope Matthias Maercker Igor Chekalin Hans-Hermann  Heyer Edmund Janssen Luis Calçada Scott Kardel Tom Jarrett, Kevin Govender Sergey Stepanenko ESA NASA IAU/IYA2009 T. Preibisch R. Fosbury (ST-ECF) INAF-VST/OmegaCAM OmegaCen/Astro-WISE/Kapteyn Institute A. Fujii J.-B. Le Bouquin et al. D. Coe (STScI)/J. Merten (Heidelberg/Bologna) Gemini Observatory/NRC/AURA/Christian Marois et al. M. Janson Jean-Luc Beuzit IAC (SMM) and ESPRESSO consortium T.M. Brown (STScI) UltraVISTA team, TERAPIX/CNRS/INSU/CASU World Wide Telescope
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast47a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast47a-cover.jpg / esocast47a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+ESOcast 48: Building Big — Special 50th anniversary episode #8
+An ESO production   Directed by : Lars Lindberg Christensen  Art Direction, Production Design : Martin Kornmesser  Producer : Herbert Zodet  Written by : Govert Schilling  3D animations and graphics : Martin Kornmesser & Luis Calçada  Editing : Martin Kornmesser  Cinematography : Herbert Zodet & Peter Rixner  Sound engineer : Cristian Larrea  Audio Mastering : Peter Rixner  Host & Lead Scientist : Dr J (Dr Joe Liske, ESO)  Narration : Sara Mendes da Costa  Soundtrack & Sound Effects :  movetwo  — Axel Kornmesser & Markus Löffler & zero-project ( zero-project.gr )  Proof reading : Anne Rhodes  Technical support : Lars Holm Nielsen, Raquel Yumi Shida & Mathias Andre  DVD Authoring : Andre Roquette  Executive producer : Lars Lindberg Christensen   Footage and photos : ESO Christoph Malin ( christophmalin.com ) Babak Tafreshi/TWAN Stéphane Guisard ( eso.org/~sguisard ) José Francisco Salgado ( josefrancisco.org ) Alexandre Santerne Nick Risinger ( skysurvey.org ) Martin Kornmesser Herbert Zodet J. Dommaget/J. Boulon/J. Doornenbal/W. Schlosser/F.K. Edmondson/A. Blaauw/Rademakers/R. Holder Mineworks Daniel Crouch/Rare Books ( crouchrarebooks.com ) Getty Images Royal Astronomical Society/Science Photo Library Jay M. Pasachoff Chris de Coning/South African Library/Warner-Madear Africana Museum/Warner Leiden University G. Brammer Mauricio Anton/Science Library NASA/Spitzer Science Center/R. Hurt VISTA/J. Emerson Digitized Sky Survey 2 MPE/S. Gillessen/M. Schartmann PIONIER/IPAG Rainer Lenzen/MPIA Heidelberg West-Eastern Divan Orchestra in Berlin by KolBerlin Davide De Martin Cambridge Astronomical Survey Unit IDA/Danish 1.5 m/R. Gendler and C. Thöne Mario Nonino, Piero Rosati and the ESO GOODS Team ALMA (ESO/NAOJ/NRAO) The NASA/ESA Hubble Space Telescope Matthias Maercker Igor Chekalin Hans-Hermann  Heyer Edmund Janssen Luis Calçada Scott Kardel Tom Jarrett, Kevin Govender Sergey Stepanenko ESA NASA IAU/IYA2009 T. Preibisch R. Fosbury (ST-ECF) INAF-VST/OmegaCAM OmegaCen/Astro-WISE/Kapteyn Institute A. Fujii J.-B. Le Bouquin et al. D. Coe (STScI)/J. Merten (Heidelberg/Bologna) Gemini Observatory/NRC/AURA/Christian Marois et al. M. Janson Jean-Luc Beuzit IAC (SMM) and ESPRESSO consortium T.M. Brown (STScI) UltraVISTA team, TERAPIX/CNRS/INSU/CASU World Wide Telescope
+  Subscribe :
+    ESOcast HD (High Definition - 1280 x 720)     ESOcast SD (Standard Definition - 640 x 480)
+      ESOcast HD (High Definition) in Apple Podcasts       ESOcast SD (Standard Definition) in Apple Podcasts — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://www.eso.org/public/videos/esocast48a/
+License source: https://www.eso.org/public/outreach/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: esocast48a-cover.jpg / esocast48a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+Hubblecast 109: Diving into the Lagoon Nebula
+Directed by:  Mathias Jäger   Visual design and editing:  Martin Kornmesser   Written by:  Rosa Jesse, Mathias Jäger   Narration:  Sara Mendes da Costa   Images:  NASA, ESA/Hubble, STScI   Videos:  NASA, ESA/Hubble   Music:  Stellardrone   Web and technical support:  Mathias Andre and Raquel Yumi Shida   Executive producer:  Lars Lindberg Christensen — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://esahubble.org/videos/heic1808a/
+License source: https://esahubble.org/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: heic1808a-cover.jpg / heic1808a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+Hubblecast 128: 30 Years of Science with the Hubble Space Telescope
+Directed by:  Bethany Downer   Visual design and editing:  Martin Kornmesser   Written by:  Bethany Downer   Narration:  Sara Mendes da Costa   Images & Videos:  NASA, ESA, M.Kornmesser, L. Calçada, ESO, G. Bacon (STScI), theHubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration, and H. Bond (STScI and Pennsylvania State University),  A. Feild (STScI), and A. Riess (STScI/JHU), D. Jewitt (UCLA), F. Summers, Z. Levay, J. DePasquale, L. Hustak, L. Frattare, M. Robberto (STScI), R. Hurt (Caltech/IPAC) Acknowledgement: R. Gendler, spaceengine.org.   Music:  Johan B. Monell ( www.johanmonell.com )   Web and technical support:  Raquel Yumi Shida   Executive producer:  Mariya Lyubenova — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://esahubble.org/videos/heic2007a/
+License source: https://esahubble.org/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: heic2007a-cover.jpg / heic2007a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+Hubblecast 20 Special: Technology to the rescue
+ESA / Hubble  (M. Kornmesser & L. L. Christensen)  Visual design & Editing:  Martin Kornmesser  Animations:  Martin Kornmesser & Luis Calçada  Web Technical Support:  Lars Holm Nielsen & Raquel Yumi Shida  Written by:  Govert Schilling & Lars Lindberg Christensen  Presented by : Dr Joe Liske (Dr J)  Narration:  Howard Cooper & Bob Fosbury  Cinematography:  Peter Rixner  Music:   movetwo   Footage and photos:  Scott Kardel; W. M. Keck Observatory/Photo credit: Rick Peterson ¸ 2007; Large Binocular Telescope Observatory (Ray Bertram), the University of Arizona's Steward Observatory Mirror Laboratory; Canada-France-Hawaii Telescope / Coelum; ESO/NTT; NASA/JPL-Caltech; NASA, ESA, the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University), CFHT (Jean-Charles Cuillandre); K. Noll (STScI), and J. Westphal (Caltech); ESO;  Stephane Guisard/ESO; NOAO; Michael Richmond, Creative Commons License; Gemini Observatory/AURA/Kirk Pu'uohau-Pummill);   Photo courtesy of Large Binocular Telescope Observatory/Marc-Andre Besel and Wiphu Rujopakarn/John Hill/Aaron Ceranski  (Photographers);  ESA/Hubble (M. Kornmesser & L. L. Christensen); TWAN (Babak Tafreshi).  Directed by:  Lars Lindberg Christensen — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://esahubble.org/videos/hubblecast20a/
+License source: https://esahubble.org/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: hubblecast20a-cover.jpg / hubblecast20a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+Hubblecast 31: Sky merger yields sparkling dividends
+ESA/Hubble  Visual design & Editing:  Martin Kornmesser  Animations:  Martin Kornmesser & Patrik Jonsson, Greg Novak & Joel Primack, UC Santa Cruz  Web Technical Support:  Lars Holm Nielsen & Raquel Yumi Shida  Written by:  Colleen Sharkey  Presented by : Dr Joe Liske (Dr J)  Music:   movetwo  &  John Dyson  from the CD Darklight  Still images:  XMM-Newton: ESA/Chandra: NASA/Galex: NASA/JPL-Caltech/ Spitzer: NASA/JPL-Caltech   Directed by:  Colleen Sharkey  Executive director:  Lars Lindberg Christensen  Acknowledgement:  Dr. Eckhard Sturm — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://esahubble.org/videos/heic0912a/
+License source: https://esahubble.org/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: heic0912a-cover.jpg / heic0912a-backdrop.jpg
+Frame: 90s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+Hubblecast 78: Q&A with Dr J part 1
+Directed by:  Georgia Bladon
+  Visual design and editing:  Martin Kornmesser
+  Written by:  Georgia Bladon and Victoria Weller Von Ahlefeld
+  Presented by:  Joe Liske (Dr J)
+  Narration:  Sara Mendes da Costa
+  Images:   NASA ,  ESA/Hubble
+  Videos:   NASA ,  ESA/Hubble
+  Animations:  Martin Kornmesser, Luis Calcada,  NASA ,  ESA/Hubble ,  TU-Braunschweig
+  Music:   Johan B. Monell ,  movetwo ,  Hemeleen
+  Web and technical support:  Mathias Andre and Raquel Yumi Shida
+  Executive producer:  Lars Lindberg Christensen — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://esahubble.org/videos/hubblecast78a/
+License source: https://esahubble.org/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: hubblecast78a-cover.jpg / hubblecast78a-backdrop.jpg
+Frame: 180s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+Hubblecast 79: Q&A with Dr J part 2
+Directed by:  Georgia Bladon
+  Visual design and editing:  Martin Kornmesser
+  Written by:  Georgia Bladon and Victoria Weller Von Ahlefeld
+  Presented by:  Joe Liske (Dr J)
+  Narration:  Sara Mendes da Costa
+  Images:  NASA ,  ESA/Hubble
+  Videos:  NASA ,  ESA/Hubble
+  Animations:  Martin Kornmesser, Luis Calcada, Lorenzo Benassi, NASA, ESA/Hubble
+  Visible Universe animation:  http://www.worldwidetelescope.org/
+  Music:  Johan B. Monell ,  movetwo ,  Hemeleen
+  Web and technical support:  Mathias Andre, Raquel Yumi Shida and Gara Mora
+  Executive producer:  Lars Lindberg Christensen — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://esahubble.org/videos/hubblecast79a/
+License source: https://esahubble.org/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: hubblecast79a-cover.jpg / hubblecast79a-backdrop.jpg
+Frame: 450s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.
+
+Hubblecast 81: Ode to Hubble
+Directed by:  Georgia Bladon
+  Visual design and editing:  Martin Kornmesser
+  Written by:  Georgia Bladon and Nicky Guttridge
+  Narration:  Sara Mendes da Costa
+  Images:  NASA, ESA/Hubble
+  Videos:  NASA, ESA/Hubble
+  Animations:  Martin Kornmesser, Luis Calcada, NASA, ESA/Hubble
+  Music:  Johan B. Monell ( www.johanmonell.com )
+  Web and technical support:  Mathias Andre and Raquel Yumi Shida
+  Executive producer:  Lars Lindberg Christensen — CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+Film: https://esahubble.org/videos/hubblecast81a/
+License source: https://esahubble.org/copyright/
+License basis: Official publisher video page and video reuse terms; retain complete end credits. Separate music reuse is excluded.
+Artwork: hubblecast81a-cover.jpg / hubblecast81a-backdrop.jpg
+Frame: 240s. Video frame extracted as JPEG; portrait cover center-cropped to 2:3.
+Usage: Credit footage visibly and in full. Keep end credits when sharing complete episodes; do not reuse music separately. Do not imply endorsement. Choose screenshots without identifiable people.

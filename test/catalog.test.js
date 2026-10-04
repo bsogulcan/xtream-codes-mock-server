@@ -12,14 +12,22 @@ const infos = require('../data/series_info.json');
 
 test('catalog contains licensed sources, matching artwork, and globally unique playable IDs', () => {
   const ids = [...vod, ...live].map(x => x.stream_id);
-  assert.equal(films.length, 10);
+  assert.equal(films.length, 28);
+  assert.equal(vod.length, films.length);
+  assert.equal(live.length, films.length);
+  assert.equal(shows.length, 7);
+  assert.ok(films.filter(f => f.language === 'en').length >= 20);
+  assert.ok(live.every(v => v.is_demo && v.name.includes('Demo')));
   for (const f of films) {
     assert.match(f.license_url, /^https:\/\/creativecommons.org\/licenses\/by\//);
     assert.ok(f.license_source && f.attribution && f.source_url);
     assert.ok(!f.license_basis.startsWith('Blender Studio default'));
     assert.equal(vod.find(v => v.stream_id === f.stream_id).stream_url, f.stream_url);
     assert.equal(live.find(v => v.stream_id === f.live_stream_id).stream_url, f.stream_url);
-    assert.equal(new URL(f.stream_url).hostname, 'video.blender.org');
+    assert.ok(['video.blender.org', 'cdn.eso.org', 'cdn.esahubble.org', 'cdn2.esahubble.org'].includes(new URL(f.stream_url).hostname));
+    assert.ok(f.duration > 0);
+    assert.ok(['mp4', 'm4v'].includes(f.container_extension));
+    assert.ok(['en', 'zxx'].includes(f.language));
     for (const kind of ['cover', 'backdrop']) {
       const file = fs.readFileSync(path.join(__dirname, '../public/artwork', `${f.slug}-${kind}.jpg`));
       assert.equal(file.subarray(0, 2).toString('hex'), 'ffd8');
@@ -36,11 +44,11 @@ test('catalog contains licensed sources, matching artwork, and globally unique p
   for (const id of ['1005', '1008', '1009', '1010', '2005', '2008', '2009', '2010', '4005', '4008', '4009', '4010']) assert.ok(!ids.includes(id));
 });
 
-test('M3U contains 30 playable entries with deploy-aware artwork and credits', () => {
+test('M3U contains 84 playable entries with deploy-aware artwork and credits', () => {
   const m3u = buildM3U('https://example.test');
-  assert.equal((m3u.match(/^#EXTINF:/gm) || []).length, 30);
-  assert.equal((m3u.match(/^#EXT-X-ATTRIBUTION:/gm) || []).length, 30);
-  assert.equal((m3u.match(/tvg-logo="https:\/\/example.test\/artwork\//g) || []).length, 30);
+  assert.equal((m3u.match(/^#EXTINF:/gm) || []).length, 84);
+  assert.equal((m3u.match(/^#EXT-X-ATTRIBUTION:/gm) || []).length, 84);
+  assert.equal((m3u.match(/tvg-logo="https:\/\/example.test\/artwork\//g) || []).length, 84);
   assert.ok(!m3u.includes('localhost'));
   assert.equal(fs.readFileSync(path.join(__dirname, '../data/playlist.m3u'), 'utf8'), buildM3U('http://localhost:8080'));
 });
@@ -64,7 +72,7 @@ test('Xtream endpoints expose details, filters, artwork, authentication and medi
   assert.ok(series.episodes['1'][0].info.movie_image.startsWith('http'));
   const episode = series.episodes['1'][0];
   for (const [route, id, target] of [['movie', vod[0].stream_id, vod[0].stream_url], ['live', live[0].stream_id, live[0].stream_url], ['series', episode.id, episode.stream_url]]) {
-    for (const extension of ['mp4', 'm3u8']) {
+    for (const extension of ['mp4', 'm4v', 'm3u8']) {
       const response = await fetch(`${base}/${route}/test_user/test_pass/${id}.${extension}`, { redirect: 'manual' });
       assert.equal(response.status, 302);
       assert.equal(response.headers.get('location'), target);
@@ -73,6 +81,10 @@ test('Xtream endpoints expose details, filters, artwork, authentication and medi
   }
   const playlist = await (await fetch(`${base}/get.php?${auth}`)).text();
   assert.equal(playlist, buildM3U(base));
+  const science = vod.find(v => v.container_extension === 'm4v');
+  const scienceResponse = await fetch(`${base}/movie/test_user/test_pass/${science.stream_id}.m4v`, { redirect: 'manual' });
+  assert.equal(scienceResponse.status, 302);
+  assert.equal(scienceResponse.headers.get('location'), science.stream_url);
   const artwork = await fetch(detail.info.movie_image);
   assert.equal(artwork.status, 200);
   assert.match(artwork.headers.get('content-type'), /image\/jpeg/);

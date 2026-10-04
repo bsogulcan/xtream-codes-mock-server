@@ -2,21 +2,21 @@
   {
     "num": 1,
     "series_id": 3001,
-    "name": "Doğa ve Komedi Koleksiyonu",
+    "name": "Nature & Comedy Collection",
     "category_id": "1",
     "cover": "/artwork/big-buck-bunny-cover.jpg",
     "backdrop_path": [
       "/artwork/big-buck-bunny-backdrop.jpg"
     ],
-    "genre": "Doğa ve Komedi",
-    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
-    "cast": "Blender Foundation",
+    "genre": "Nature & Comedy",
+    "plot": "A curated collection of openly licensed films and videos, presented as episodes for the demo library.",
+    "language": "zxx",
     "episode_run_time": "10"
   },
   {
     "num": 2,
     "series_id": 3002,
-    "name": "Fantastik Yolculuklar Koleksiyonu",
+    "name": "Fantasy Adventures Collection",
     "category_id": "2",
     "cover": "/artwork/sintel-cover.jpg",
     "backdrop_path": [
@@ -24,41 +24,98 @@
       "/artwork/cosmos-laundromat-backdrop.jpg",
       "/artwork/spring-backdrop.jpg"
     ],
-    "genre": "Fantastik Yolculuklar",
-    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
-    "cast": "Blender Foundation",
+    "genre": "Fantasy Adventures",
+    "plot": "A curated collection of openly licensed films and videos, presented as episodes for the demo library.",
+    "language": "mul",
     "episode_run_time": "12"
   },
   {
     "num": 3,
     "series_id": 3003,
-    "name": "Bilim Kurgu Koleksiyonu",
+    "name": "Science Fiction Collection",
     "category_id": "3",
     "cover": "/artwork/elephants-dream-cover.jpg",
     "backdrop_path": [
       "/artwork/elephants-dream-backdrop.jpg",
       "/artwork/tears-of-steel-backdrop.jpg",
-      "/artwork/charge-backdrop.jpg"
+      "/artwork/charge-backdrop.jpg",
+      "/artwork/singularity-backdrop.jpg"
     ],
-    "genre": "Bilim Kurgu",
-    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
-    "cast": "Blender Foundation",
+    "genre": "Science Fiction",
+    "plot": "A curated collection of openly licensed films and videos, presented as episodes for the demo library.",
+    "language": "mul",
     "episode_run_time": "9"
   },
   {
     "num": 4,
     "series_id": 3004,
-    "name": "Kısa Animasyonlar Koleksiyonu",
+    "name": "Animated Shorts Collection",
     "category_id": "4",
     "cover": "/artwork/glass-half-cover.jpg",
     "backdrop_path": [
       "/artwork/glass-half-backdrop.jpg",
       "/artwork/coffee-run-backdrop.jpg",
-      "/artwork/wing-it-backdrop.jpg"
+      "/artwork/wing-it-backdrop.jpg",
+      "/artwork/sprite-fright-backdrop.jpg"
     ],
-    "genre": "Kısa Animasyonlar",
-    "plot": "Bağımsız açık filmlerden oluşturulmuş demo koleksiyonu; orijinal bir televizyon dizisi değildir.",
-    "cast": "Blender Foundation",
-    "episode_run_time": "3"
+    "genre": "Animated Shorts",
+    "plot": "A curated collection of openly licensed films and videos, presented as episodes for the demo library.",
+    "language": "mul",
+    "episode_run_time": "5"
+  },
+  {
+    "num": 5,
+    "series_id": 3005,
+    "name": "Behind the Open Movies",
+    "category_id": "5",
+    "cover": "/artwork/making-of-sintel-cover.jpg",
+    "backdrop_path": [
+      "/artwork/making-of-sintel-backdrop.jpg"
+    ],
+    "genre": "Behind the Scenes",
+    "plot": "A curated collection of openly licensed films and videos, presented as episodes for the demo library.",
+    "language": "en",
+    "episode_run_time": "58"
+  },
+  {
+    "num": 6,
+    "series_id": 3006,
+    "name": "Europe to the Stars",
+    "category_id": "6",
+    "cover": "/artwork/esocast41a-cover.jpg",
+    "backdrop_path": [
+      "/artwork/esocast41a-backdrop.jpg",
+      "/artwork/esocast42a-backdrop.jpg",
+      "/artwork/esocast43a-backdrop.jpg",
+      "/artwork/esocast44a-backdrop.jpg",
+      "/artwork/esocast45a-backdrop.jpg",
+      "/artwork/esocast46a-backdrop.jpg",
+      "/artwork/esocast47a-backdrop.jpg",
+      "/artwork/esocast48a-backdrop.jpg"
+    ],
+    "genre": "ESO Astronomy",
+    "plot": "Eight English-language chapters about exploring the southern sky, from ESO.",
+    "language": "en",
+    "episode_run_time": "9"
+  },
+  {
+    "num": 7,
+    "series_id": 3007,
+    "name": "Hubblecast",
+    "category_id": "7",
+    "cover": "/artwork/heic1808a-cover.jpg",
+    "backdrop_path": [
+      "/artwork/heic1808a-backdrop.jpg",
+      "/artwork/heic2007a-backdrop.jpg",
+      "/artwork/hubblecast20a-backdrop.jpg",
+      "/artwork/heic0912a-backdrop.jpg",
+      "/artwork/hubblecast78a-backdrop.jpg",
+      "/artwork/hubblecast79a-backdrop.jpg",
+      "/artwork/hubblecast81a-backdrop.jpg"
+    ],
+    "genre": "Hubble Discoveries",
+    "plot": "Selected English-language Hubblecast episodes about discoveries and technology.",
+    "language": "en",
+    "episode_run_time": "9"
   }
 ]

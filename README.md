@@ -47,9 +47,9 @@ docker run -d -p 8080:8080 --name xtream-codes-mock-server xtream-codes-mock-ser
 
 ## Screenshot-ready open media catalog
 
-The default catalog contains **10 distinct Blender open films**, shown as 10 VOD titles,
-10 finite demo channels, and 4 collections containing 10 episodes (30 M3U entries).
-Demo channels are on-demand MP4 films, not continuous live broadcasts. Collections
+The default catalog contains **28 distinct open videos**, shown as 28 VOD titles,
+28 finite demo channels, and 7 collections containing 28 episodes (84 M3U entries).
+Demo channels are on-demand MP4/M4V videos, not continuous live broadcasts. Collections
 repackage those same films for testing series screens; they are not original TV series.
 Unverified TV broadcasts, third-party channel logos, and Apple test clips have been removed.
 
@@ -61,16 +61,15 @@ http://localhost:8080/get.php?username=test_user&password=test_pass
 
 For a phone or simulator that cannot reach localhost, set `PUBLIC_BASE_URL` to this
 server's reachable LAN address or deployed HTTPS origin if an explicit override is needed. Otherwise artwork URLs in Xtream API
-responses and `/get.php` follow the address used by the client. Videos redirect to Blender's public MP4 files.
-20 bundled JPEGs provide portrait covers and landscape backdrops without third-party
+responses and `/get.php` follow the address used by the client. Videos redirect to the publishers’ public MP4/M4V files.
+56 bundled JPEGs provide portrait covers and landscape backdrops without third-party
 image hosting. `get_vod_info&vod_id=1001` also returns artwork and licensing metadata.
-Remote video availability depends on Blender's hosting.
+Remote video availability depends on the publishers’ hosting.
 
 These assets are **CC BY, not public domain or attribution-free**. Before publishing
 screenshots, copy the applicable credits and license links from [MEDIA_CREDITS.txt](MEDIA_CREDITS.txt)
 into the accompanying caption/credits and retain the image modification note. Keep movie
-end credits when sharing the films. Logos and trademarks are excluded from Blender's
-content licenses. Per-film sources, license basis, frame timestamps and changes are
+end credits when sharing the films. Logos and trademarks are excluded from the publishers’ content licenses. ESO/ESA require complete, visible credits; preserve end credits and do not reuse music separately. Per-film sources, license basis, frame timestamps and changes are
 recorded in [data/media_catalog.json](data/media_catalog.json).
 
 Regenerate all Xtream fixtures and the checked-in M3U after editing the reviewed catalog:
@@ -86,11 +85,28 @@ The checked-in `data/playlist.m3u` targets localhost by default; use `/get.php` 
 origin-aware playlist on a deployed server. Artwork is bundled in `public/artwork/`;
 regenerating JSON does not redownload media or recreate these images.
 
-The catalog only retains titles with a project-specific license statement or an explicit
-license card in the official film. Entries previously based only on Blender Studio's
-general terms were removed. Stable media IDs are stored in `media_catalog.json` so
+The catalog retains Blender titles with project-specific licensing and ESO/ESA videos
+with a source page, complete credits and publisher video-reuse terms. Entries previously
+based only on Blender Studio's general terms remain excluded. Stable media IDs are stored in `media_catalog.json` so
 removing a title does not reassign its ID to another film.
 
 API request examples live in `collections/` (Bruno). Open that directory as a collection;
 the redundant root-level JSON export has been removed. Series Info uses collection ID
 3001, and the VOD playback example uses movie ID 1001.
+
+### Expanded English catalog
+
+The library includes English-language ESOcast and Hubblecast episodes, the Making of
+Sintel documentary, Sprite Fright, and Singularity. There are 21 English-language
+entries; the remaining 7 are marked `zxx` (no dialogue). Titles, descriptions and
+categories are in English. Live-screen English entries include `[EN]`; Xtream metadata
+also includes `language`, and the M3U includes `tvg-language`.
+
+Collections: Nature & Comedy, Fantasy Adventures, Science Fiction, Animated Shorts,
+Behind the Open Movies, Europe to the Stars (8 chapters), and Hubblecast (7 episodes).
+These are 28 distinct videos presented in three browsing modes, not 84 distinct videos.
+No third-party television broadcasts have been added. The live section remains a demo
+catalog of finite videos, not a continuous live TV service.
+
+`npm run generate:playlist` regenerates the credit sheet as well as the API fixtures
+and playlist from the reviewed catalog. Original stream IDs are preserved.

@@ -1,22 +1,37 @@
 [
   {
     "category_id": "1",
-    "category_name": "Doğa ve Komedi",
+    "category_name": "Nature & Comedy",
     "parent_id": 0
   },
   {
     "category_id": "2",
-    "category_name": "Fantastik Yolculuklar",
+    "category_name": "Fantasy Adventures",
     "parent_id": 0
   },
   {
     "category_id": "3",
-    "category_name": "Bilim Kurgu",
+    "category_name": "Science Fiction",
     "parent_id": 0
   },
   {
     "category_id": "4",
-    "category_name": "Kısa Animasyonlar",
+    "category_name": "Animated Shorts",
+    "parent_id": 0
+  },
+  {
+    "category_id": "5",
+    "category_name": "Behind the Scenes",
+    "parent_id": 0
+  },
+  {
+    "category_id": "6",
+    "category_name": "ESO Astronomy",
+    "parent_id": 0
+  },
+  {
+    "category_id": "7",
+    "category_name": "Hubble Discoveries",
     "parent_id": 0
   }
 ]
