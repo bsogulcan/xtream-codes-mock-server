@@ -4,7 +4,7 @@ A lightweight Docker-based mock server that simulates Xtream Codes API endpoints
 
 ## Test Credentials
 
-* Server URL: https://xtream-codes-mock-server-337348938954.europe-west1.run.app
+* Server URL: https://xtream-codes-mock-server.vercel.app
 * Username: test_user
 * Password: test_pass
 
