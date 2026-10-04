@@ -55,7 +55,7 @@ test('Xtream endpoints expose details, filters, artwork, authentication and medi
   assert.equal((await fetch(`${base}/player_api.php`)).status, 401);
   assert.equal((await fetch(`${base}/get.php`)).status, 401);
   const detail = await (await api(`action=get_vod_info&vod_id=${vod[0].stream_id}`)).json();
-  assert.match(detail.info.movie_image, /^http:\/\/localhost:8080\/artwork\//);
+  assert.equal(detail.info.movie_image, base + vod[0].cover);
   assert.equal(detail.info.license, films[0].license);
   assert.equal((await api('action=get_vod_info&vod_id=missing')).status, 404);
   const filtered = await (await api('action=get_vod_streams&category_id=2')).json();
@@ -72,8 +72,8 @@ test('Xtream endpoints expose details, filters, artwork, authentication and medi
     assert.equal((await fetch(`${base}/${route}/bad/bad/${id}.mp4`, { redirect: 'manual' })).status, 401);
   }
   const playlist = await (await fetch(`${base}/get.php?${auth}`)).text();
-  assert.equal(playlist, buildM3U('http://localhost:8080'));
-  const artwork = await fetch(base + vod[0].cover);
+  assert.equal(playlist, buildM3U(base));
+  const artwork = await fetch(detail.info.movie_image);
   assert.equal(artwork.status, 200);
   assert.match(artwork.headers.get('content-type'), /image\/jpeg/);
 });

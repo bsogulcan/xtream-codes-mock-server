@@ -19,7 +19,7 @@ Vercel supports this Express server directly; Docker is not required. The API re
 1. Push this repository to GitHub and import it at https://vercel.com/new.
 2. Select the **Express** framework preset if it is not detected automatically. Keep the repository root as the Root Directory and leave build/output overrides unset.
 3. Deploy, then use `https://<your-project>.vercel.app` as the server URL with the test credentials above.
-4. Set `PUBLIC_BASE_URL=https://<your-project>.vercel.app` in the project's environment variables and redeploy so the API advertises your stable production domain. Without it, the API uses Vercel's deployment URL, or localhost when running locally.
+4. Set `PUBLIC_BASE_URL=https://<your-project>.vercel.app` in the project's environment variables and redeploy so the API advertises your stable production domain. Without it, the API uses the incoming request's host and protocol, so artwork stays on the same public domain the client uses. Protected Vercel deployment URLs are never used as a fallback.
 
 Verify `/player_api.php?username=test_user&password=test_pass` and `/get.php?username=test_user&password=test_pass` on the deployed domain. IPTV clients need a URL they can access without a Vercel login; check Deployment Protection if requests show a login page.
 
@@ -60,8 +60,8 @@ http://localhost:8080/get.php?username=test_user&password=test_pass
 ```
 
 For a phone or simulator that cannot reach localhost, set `PUBLIC_BASE_URL` to this
-server's reachable LAN address or deployed HTTPS origin. Artwork URLs in Xtream API
-responses and `/get.php` use that origin. Videos redirect to Blender's public MP4 files.
+server's reachable LAN address or deployed HTTPS origin if an explicit override is needed. Otherwise artwork URLs in Xtream API
+responses and `/get.php` follow the address used by the client. Videos redirect to Blender's public MP4 files.
 20 bundled JPEGs provide portrait covers and landscape backdrops without third-party
 image hosting. `get_vod_info&vod_id=1001` also returns artwork and licensing metadata.
 Remote video availability depends on Blender's hosting.

@@ -4,10 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 const port = process.env.PORT || 8080;
-const publicUrl = new URL(
-  process.env.PUBLIC_BASE_URL ||
-  (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : `http://localhost:${port}`)
-);
+const { getPublicUrl } = require('./scripts/public_url');
 
 app.use(cors());
 app.use(express.json());
@@ -16,7 +13,7 @@ function loadJsonData(filename) {
   try {
     const filePath = path.join(__dirname, 'data', filename);
     const data = fs.readFileSync(filePath, 'utf8');
-    return absoluteArtwork(JSON.parse(data));
+    return JSON.parse(data);
   } catch (error) {
     console.error(`Error loading ${filename}:`, error);
     return [];
@@ -26,10 +23,10 @@ function loadJsonData(filename) {
 const buildPlaylist = require('./scripts/build_m3u');
 app.use('/artwork', express.static(path.join(__dirname, 'public/artwork')));
 
-function absoluteArtwork(value) {
+function absoluteArtwork(value, publicUrl) {
   if (typeof value === 'string' && value.startsWith('/artwork/')) return new URL(value, publicUrl).href;
-  if (Array.isArray(value)) return value.map(absoluteArtwork);
-  if (value && typeof value === 'object') return Object.fromEntries(Object.entries(value).map(([k, v]) => [k, absoluteArtwork(v)]));
+  if (Array.isArray(value)) return value.map(v => absoluteArtwork(v, publicUrl));
+  if (value && typeof value === 'object') return Object.fromEntries(Object.entries(value).map(([k, v]) => [k, absoluteArtwork(v, publicUrl)]));
   return value;
 }
 
@@ -40,19 +37,21 @@ app.get('/get.php', (req, res) => {
   }
   res.set('Content-Type', 'application/x-mpegurl; charset=utf-8');
   res.set('Content-Disposition', 'attachment; filename="playlist.m3u"');
-  res.send(buildPlaylist(publicUrl));
+  res.send(buildPlaylist(getPublicUrl(req)));
 });
 
 app.get('/player_api.php', (req, res) => {
   const { username, password, action, series_id, category_id } = req.query;
+  const publicUrl = getPublicUrl(req);
+  const loadData = filename => absoluteArtwork(loadJsonData(filename), publicUrl);
 
   if (username === 'test_user' && password === 'test_pass') {
 
     if (action === 'get_live_categories') {
-      res.json(loadJsonData('live_categories.json'));
+      res.json(loadData('live_categories.json'));
 
     } else if (action === 'get_live_streams') {
-      const liveStreams = loadJsonData('live_streams.json');
+      const liveStreams = loadData('live_streams.json');
       
       if (category_id) {
         // Category ID'ye göre filtrele
@@ -66,10 +65,10 @@ app.get('/player_api.php', (req, res) => {
       }
 
     } else if (action === 'get_vod_categories') {
-      res.json(loadJsonData('vod_categories.json'));
+      res.json(loadData('vod_categories.json'));
 
     } else if (action === 'get_vod_streams') {
-      const vodStreams = loadJsonData('vod_streams.json');
+      const vodStreams = loadData('vod_streams.json');
       
       if (category_id) {
         // Category ID'ye göre filtrele
@@ -83,15 +82,15 @@ app.get('/player_api.php', (req, res) => {
       }
 
     } else if (action === 'get_vod_info') {
-      const movie = loadJsonData('vod_streams.json').find(v => String(v.stream_id) === String(req.query.vod_id));
+      const movie = loadData('vod_streams.json').find(v => String(v.stream_id) === String(req.query.vod_id));
       if (!movie) return res.status(404).json({ error: 'Movie not found' });
       res.json({ info: { ...movie, movie_image: movie.stream_icon, cover_big: movie.cover }, movie_data: movie });
 
     } else if (action === 'get_series_categories') {
-      res.json(loadJsonData('series_categories.json'));
+      res.json(loadData('series_categories.json'));
 
     } else if (action === 'get_series') {
-      const series = loadJsonData('series.json');
+      const series = loadData('series.json');
       
       if (category_id) {
         // Category ID'ye göre filtrele
@@ -105,8 +104,8 @@ app.get('/player_api.php', (req, res) => {
       }
 
     } else if (action === 'get_series_info' && series_id) {
-      const seriesInfo = loadJsonData('series_info.json');
-      const seriesData = loadJsonData('series.json');
+      const seriesInfo = loadData('series_info.json');
+      const seriesData = loadData('series.json');
       const info = seriesData.find(s => s.series_id == series_id);
 
       if (seriesInfo[series_id]) {
